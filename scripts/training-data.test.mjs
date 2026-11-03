@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {serializeDraft,archiveOvernight,historyBest,mostUsed,partsName,usageCounts} from '../docs/training-data.js';
+import {catalog} from '../docs/catalog.js';import {diagramInfo,illustration} from '../docs/exercise-art.js';
+const ex={id:'ex1',name:'哑铃侧平举',group:'肩部 · 中束',category:'肩部',subgroup:'中束',type:'strength',sets:[{id:'set1',weight:10,reps:0,done:false},{id:'set2',weight:8,reps:12,done:false}]};
+const cardio={id:'run',name:'户外跑步',group:'有氧 · 跑步与步行',type:'cardio',minutes:0,distance:3,done:false};
+const d={id:'draft1',name:'旧名称',nameFromParts:true,parts:['肩','跑步'],date:'2026-11-03',startedAt:new Date(2026,10,3,23,50).getTime(),openedAt:new Date(2026,10,3,23,50).getTime(),notes:'保留未填完的数据',minutes:0,exercises:[ex,cardio]};
+const state={version:1,sessions:[],draft:d,custom:[],savedTemplates:[],settings:{goal:3,rest:0},timerEnd:0};
+const saved=serializeDraft(d);assert.equal(saved.name,'肩 + 跑步');assert.equal(saved.incomplete,true);assert.equal(saved.exercises[0].sets[0].weight,10);assert.equal(saved.exercises[0].sets[0].reps,0);assert.equal(saved.exercises[1].distance,3);assert.equal(saved.exercises[0].sets[1].done,true);assert.equal(d.exercises[0].sets[1].done,false);
+assert.equal(archiveOvernight(state,new Date(2026,10,3,23,59)),null);const overnight=archiveOvernight(state,new Date(2026,10,4,0,0));assert.equal(overnight.draft,null);assert.equal(overnight.sessions.length,1);assert.equal(overnight.sessions[0].date,'2026-11-03');assert.equal(overnight.sessions[0].notes,d.notes);assert.equal(overnight.sessions[0].exercises[1].distance,3);assert.equal(archiveOvernight(overnight,new Date(2026,10,4,9)),null);
+const editing=structuredClone(state);editing.sessions=[saved];editing.draft.editId=saved.id;const updated=archiveOvernight(editing,new Date(2026,10,4,0,0));assert.equal(updated.sessions.length,1);
+const sessions=[{id:'a',date:'2026-11-01',exercises:[{...ex,sets:[{weight:20,reps:8}]}]},{id:'b',date:'2026-11-02',exercises:[{...ex,sets:[{weight:30,reps:0},{weight:15,reps:12}]}]}];assert.equal(historyBest(sessions,ex.name).weight,20);assert.equal(historyBest(sessions,ex.name,'a').weight,15);assert.equal(historyBest(sessions,'无记录'),null);assert.equal(usageCounts(sessions).get(ex.name),2);assert.equal(mostUsed([{name:'新动作'},ex],sessions)[0].name,ex.name);assert.deepEqual(mostUsed([{name:'a'},{name:'b'}],[]).map(e=>e.name),['a','b']);assert.equal(partsName(['背','二头']),'背 + 二头');
+for(const e of catalog){assert.equal(diagramInfo(e).known,true,e.name);const svg=illustration(e);assert.ok(svg.includes('<svg'));assert.equal(svg.includes('NaN'),false,e.name);assert.ok(svg.includes('<title>'));}
+assert.notEqual(illustration(catalog.find(e=>e.name==='中立握引体向上')),illustration(catalog.find(e=>e.name==='宽握引体向上')));
+assert.equal(diagramInfo(catalog.find(e=>e.name==='坐姿腿弯举')).family,'seatedCurl');
+console.log('PASS: midnight boundary/idempotency/edit upsert, incomplete data preservation, history max, usage ranking, part titles, and 334 diagrams.');

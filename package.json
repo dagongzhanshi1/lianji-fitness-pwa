@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "check": "node --check docs/app.js && node --check docs/sw.js",
-    "test": "node scripts/saving-regression.cjs && node scripts/offline-regression.cjs"
+    "check": "node --check docs/app.js && node --check docs/training-data.js && node --check docs/exercise-art.js && node --check docs/sw.js",
+    "test": "node scripts/training-data.test.mjs && node scripts/saving-regression.cjs && node scripts/offline-regression.cjs"
   }
 }
