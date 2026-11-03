@@ -1,5 +1,5 @@
 const PREFIX = `lianji-${encodeURIComponent(new URL(self.registration.scope).pathname)}-`;
-const CACHE = `${PREFIX}v2.0.2`;
+const CACHE = `${PREFIX}v2.0.3`;
 const url = file => new URL(file, self.registration.scope).href;
 const CORE = ['index.html', 'style.css', 'app.js', 'catalog.js'].map(url);
 const OPTIONAL = ['manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png'].map(url);

@@ -6,6 +6,6 @@
   "scripts": {
     "start": "node server.mjs",
     "check": "node --check docs/app.js && node --check docs/sw.js",
-    "test": "node scripts/offline-regression.cjs"
+    "test": "node scripts/saving-regression.cjs && node scripts/offline-regression.cjs"
   }
 }
