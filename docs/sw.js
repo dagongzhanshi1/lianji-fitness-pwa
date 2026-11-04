@@ -1,7 +1,8 @@
 const PREFIX = `lianji-${encodeURIComponent(new URL(self.registration.scope).pathname)}-`;
-const CACHE = `${PREFIX}v3.0.0`;
+const CACHE = `${PREFIX}v3.1.0`;
+const MEDIA_CACHE = `${PREFIX}media-v1`;
 const url = file => new URL(file, self.registration.scope).href;
-const CORE = ['index.html', 'style.css', 'app.js', 'catalog.js', 'training-data.js', 'exercise-art.js'].map(url);
+const CORE = ['index.html', 'style.css', 'app.js', 'catalog.js', 'training-data.js', 'exercise-art.js', 'exercise-media.js'].map(url);
 const OPTIONAL = ['manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png'].map(url);
 const ASSETS = new Set([...CORE, ...OPTIONAL]);
 
@@ -27,7 +28,7 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
     const keys = await caches.keys();
-    await Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE).map(key => caches.delete(key)));
+    await Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE && key !== MEDIA_CACHE).map(key => caches.delete(key)));
     await self.clients.claim();
   })());
 });
@@ -36,6 +37,8 @@ self.addEventListener('fetch', event => {
   if (event.request.method !== 'GET') return;
   const requestURL = new URL(event.request.url);
   const scope = new URL(self.registration.scope);
+  const isDemo=requestURL.origin===scope.origin&&requestURL.pathname.startsWith(new URL('./exercise-media/',scope).pathname)&&/\.(png|webp|jpg)$/.test(requestURL.pathname);
+  if(isDemo){event.respondWith((async()=>{const cache=await caches.open(MEDIA_CACHE),hit=await cache.match(event.request);if(hit)return hit;const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),10000);try{const response=await fetch(event.request,{signal:controller.signal});if(response.ok||response.type==='opaque')try{await cache.put(event.request,response.clone());}catch{}return response;}catch{return new Response('',{status:503});}finally{clearTimeout(timer);}})());return;}
   if (requestURL.origin !== scope.origin) return;
   requestURL.search = '';
   requestURL.hash = '';

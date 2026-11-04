@@ -1,11 +1,11 @@
 {
   "name": "lianji-fitness-pwa",
-  "version": "1.0.0",
+  "version": "3.1.0",
   "private": true,
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "check": "node --check docs/app.js && node --check docs/training-data.js && node --check docs/exercise-art.js && node --check docs/sw.js",
+    "check": "node --check docs/app.js && node --check docs/training-data.js && node --check docs/exercise-art.js && node --check docs/exercise-media.js && node --check docs/sw.js",
     "test": "node scripts/training-data.test.mjs && node scripts/saving-regression.cjs && node scripts/offline-regression.cjs"
   }
 }
