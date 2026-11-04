@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="theme-color" content="#eff3e9">
+<title>更新练迹</title>
+<style>*{box-sizing:border-box}body{margin:0;min-height:100dvh;display:grid;place-items:center;background:#f3f6ef;color:#273c29;font:16px -apple-system,BlinkMacSystemFont,sans-serif;padding:24px}main{width:min(100%,460px);padding:30px;background:white;border:1px solid #e0e7db;border-radius:22px}h1{font-size:28px;margin:0 0 20px}p{color:#77846e;line-height:1.8}#status{color:#344c30;font-size:18px;font-weight:600}button,a{display:block;width:100%;text-align:center;min-height:48px;padding:14px;border-radius:12px;font:inherit;text-decoration:none;margin-top:14px}button{background:#293e29;color:white;border:0;cursor:pointer}button[hidden]{display:none}a{color:#607550;background:#f1f5eb}</style>
+<main><h1>更新练迹</h1><p id="status" role="status" aria-live="polite">正在检查最新版本…</p><p>更新会保留这台设备上已有的训练记录和未结束的训练。</p><button id="retry" hidden>重试更新</button><a href="./">返回练迹</a></main>
+<script>
+const status=document.querySelector('#status'),retry=document.querySelector('#retry');let running=false;
+function workerStatus(worker){return new Promise(resolve=>{if(!worker)return resolve(null);const c=new MessageChannel(),timer=setTimeout(()=>{c.port1.close();resolve(null)},1500);c.port1.onmessage=e=>{clearTimeout(timer);c.port1.close();resolve(e.data)};worker.postMessage({type:'OFFLINE_STATUS'},[c.port2])})}
+async function update(){
+ if(running)return;running=true;retry.hidden=true;
+ try{
+  status.textContent='正在检查最新版本…';
+  const response=await fetch('./version.json?check='+Date.now(),{cache:'no-store'});if(!response.ok)throw Error('version');
+  const release=await response.json();if(!/^\d+\.\d+\.\d+$/.test(release.version))throw Error('version');
+  if(!('serviceWorker' in navigator))throw Error('worker');
+  status.textContent='正在准备 '+release.version+' 版，请保持此页打开…';
+  const registration=await navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'});await registration.update();
+  const deadline=Date.now()+90000;
+  while(Date.now()<deadline){
+   const state=await workerStatus(registration.active);
+   if(state?.ready&&state.version===release.version){status.textContent='已更新到 '+release.version+'，正在打开练迹…';const target=new URL('./',location.href);target.searchParams.set('updated',release.version);location.replace(target.href);return;}
+   await new Promise(resolve=>setTimeout(resolve,400));
+  }
+  throw Error('timeout');
+ }catch{status.textContent='暂时无法完成更新。记录和原离线版本均已保留，请联网后重试。';retry.hidden=false;}
+ finally{running=false;}
+}
+retry.onclick=update;update();
+</script>
+</html>

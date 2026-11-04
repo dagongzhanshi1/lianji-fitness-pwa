@@ -1,5 +1,6 @@
 const PREFIX = `lianji-${encodeURIComponent(new URL(self.registration.scope).pathname)}-`;
-const CACHE = `${PREFIX}v3.1.0`;
+const VERSION = '3.2.0';
+const CACHE = `${PREFIX}v${VERSION}`;
 const MEDIA_CACHE = `${PREFIX}media-v1`;
 const url = file => new URL(file, self.registration.scope).href;
 const CORE = ['index.html', 'style.css', 'app.js', 'catalog.js', 'training-data.js', 'exercise-art.js', 'exercise-media.js'].map(url);
@@ -62,6 +63,6 @@ self.addEventListener('message', event => {
   event.waitUntil((async () => {
     const cache = await caches.open(CACHE);
     const hits = await Promise.all(CORE.map(href => cache.match(href)));
-    event.ports[0].postMessage({ ready: hits.every(Boolean) });
+    event.ports[0].postMessage({ ready: hits.every(Boolean), version: VERSION });
   })());
 });
