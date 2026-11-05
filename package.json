@@ -7,5 +7,12 @@
     "start": "node server.mjs",
     "check": "node --check docs/app.js && node --check docs/training-data.js && node --check docs/exercise-art.js && node --check docs/exercise-media.js && node --check docs/sw.js",
     "test": "node scripts/training-data.test.mjs && node scripts/saving-regression.cjs && node scripts/offline-regression.cjs && node scripts/update-regression.cjs"
-  }
+  },
+  "description": "日历式力量与有氧训练记录 PWA，配备 337 张统一风格动作示意图，支持离线使用。",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dagongzhanshi1/lianji-fitness-pwa.git"
+  },
+  "homepage": "https://dagongzhanshi1.github.io/lianji-fitness-pwa/"
 }

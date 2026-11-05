@@ -1,0 +1,3380 @@
+{
+  "count": 337,
+  "predefinedCount": 334,
+  "supplementalCount": 3,
+  "totalBytes": 38885293,
+  "generation": "AI-generated with built-in imagegen",
+  "style": "灰色无面部模型、深灰短裤、白色背景、暗红色主要发力肌群",
+  "images": [
+    {
+      "id": "797f5901859a",
+      "name": "引体向上",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/797f5901859a-5471bbc6a569.jpg",
+      "bytes": 119144,
+      "sha256": "5471bbc6a569ec482b2e400df48d0bfea15328bb4121e2bbf57daf68326f9d59"
+    },
+    {
+      "id": "bab1885dec58",
+      "name": "反手引体向上",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/bab1885dec58-0988a901274c.jpg",
+      "bytes": 121446,
+      "sha256": "0988a901274c40358b5c83d4db863c7b46c3fbabd4673e4605f033b69dfd54ac"
+    },
+    {
+      "id": "56d6f83ec0fb",
+      "name": "中立握引体向上",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/56d6f83ec0fb-b878c550ab78.jpg",
+      "bytes": 124796,
+      "sha256": "b878c550ab78ee412928a9d59cec3eaf63e48199411208f9440ffbf05e1889ff"
+    },
+    {
+      "id": "a00292b597e5",
+      "name": "宽握引体向上",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a00292b597e5-268b90cecffb.jpg",
+      "bytes": 119880,
+      "sha256": "268b90cecffb9f786377d1768dd3ea07a7f1b5c72ae82d526252afd485e1b174"
+    },
+    {
+      "id": "98b65cc32fbf",
+      "name": "高位下拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/98b65cc32fbf-69ffc6fd0019.jpg",
+      "bytes": 132687,
+      "sha256": "69ffc6fd00192b86b14f2ec47bbf378adad3d23843bf687296d231bcea76e8ab"
+    },
+    {
+      "id": "d29b79f2c41e",
+      "name": "反握高位下拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/d29b79f2c41e-2352edd47994.jpg",
+      "bytes": 142400,
+      "sha256": "2352edd47994ff8b9464a3b9922f25fa3191d914772efcde1e7a38ad33bff692"
+    },
+    {
+      "id": "b2a2e0759074",
+      "name": "中立握高位下拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b2a2e0759074-6ca61ed5659b.jpg",
+      "bytes": 141886,
+      "sha256": "6ca61ed5659bb2f2c18254b520c1636265bc65aa9861af0373dd19ee7a9a9c2a"
+    },
+    {
+      "id": "477b4122ac01",
+      "name": "户外跑步",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/477b4122ac01-614e71a1cd15.jpg",
+      "bytes": 93203,
+      "sha256": "614e71a1cd156562f13aae44ffc8f72c1e923f7b6bd838de8ae6d2c220ae6621"
+    },
+    {
+      "id": "b017e3e925fb",
+      "name": "器械肩推",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b017e3e925fb-319b3f18caca.jpg",
+      "bytes": 144637,
+      "sha256": "319b3f18caca2e48827666d716a9d5b4fe4ea7fc49cd93f45435cf4462762917"
+    },
+    {
+      "id": "df23d9bbfa22",
+      "name": "哑铃侧平举",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/df23d9bbfa22-2a5b6d75ffc5.jpg",
+      "bytes": 84258,
+      "sha256": "2a5b6d75ffc51b8b8e025909019fa0c1affebb904968145de43f899cea7668b2"
+    },
+    {
+      "id": "796a51c200d8",
+      "name": "反向蝴蝶机",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/796a51c200d8-ec63a3b793ce.jpg",
+      "bytes": 147564,
+      "sha256": "ec63a3b793ce1465cbb0368bf431f8359b4e2d028238f736e3da9c75816ee700"
+    },
+    {
+      "id": "14a026cd930e",
+      "name": "绳索侧平举",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/14a026cd930e-7b492fb67738.jpg",
+      "bytes": 133225,
+      "sha256": "7b492fb67738968caea17cd1600319e32437aa91e0dbb8cecb763bfaac11ea3e"
+    },
+    {
+      "id": "71e6b891c0c4",
+      "name": "宽握高位下拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/71e6b891c0c4-b8deac9de180.jpg",
+      "bytes": 123322,
+      "sha256": "b8deac9de1809138be366b4ad1a50821d6b2128d46364712d24d2bef40def8f8"
+    },
+    {
+      "id": "c8665ae58125",
+      "name": "辅助引体向上",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c8665ae58125-c9372438bf45.jpg",
+      "bytes": 133294,
+      "sha256": "c9372438bf453b23ea6558a0c582938dc40a1be00c535c935b2fe3423b57e441"
+    },
+    {
+      "id": "15fdc6b33e39",
+      "name": "坐姿划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/15fdc6b33e39-dad903233e82.jpg",
+      "bytes": 165988,
+      "sha256": "dad903233e826974fdd52be4024cc8a9cefe8a715ef986b8f8959a9bb900dcab"
+    },
+    {
+      "id": "95b63093830c",
+      "name": "宽握对握高位下拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "supplemental",
+      "path": "docs/exercise-media/95b63093830c-3fb62b72d113.jpg",
+      "bytes": 135935,
+      "sha256": "3fb62b72d1132d05cf27c9b74c908dc828379f38ff39cc8b045a90691df35dc2"
+    },
+    {
+      "id": "0318ea296bd6",
+      "name": "绳索弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/0318ea296bd6-e10f80a74840.jpg",
+      "bytes": 133314,
+      "sha256": "e10f80a74840ddfd0783a45b804df4a889a49ea3fe4538994bb1f8b08df78206"
+    },
+    {
+      "id": "37563cc1972d",
+      "name": "器械推胸",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/37563cc1972d-5716a5c6f4c3.jpg",
+      "bytes": 150644,
+      "sha256": "5716a5c6f4c39ee56fdcdbb902475f450c68c748c01437f4561ffa66701a278d"
+    },
+    {
+      "id": "40f23501e11a",
+      "name": "蝴蝶机夹胸",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/40f23501e11a-3d5927b9cb5a.jpg",
+      "bytes": 141630,
+      "sha256": "3d5927b9cb5aed4a434c886700d6d81e60305582c3f09e34619b2ba5bfb2509d"
+    },
+    {
+      "id": "fa8cc926a897",
+      "name": "史密斯卧推",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/fa8cc926a897-8ddd10109fb0.jpg",
+      "bytes": 150276,
+      "sha256": "8ddd10109fb01f15b3e414f5ac0a16818c70a6d0f8fe5c8a8d8a114e817de8f7"
+    },
+    {
+      "id": "64225d24b190",
+      "name": "上斜史密斯卧推",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/64225d24b190-5d56fe05e336.jpg",
+      "bytes": 152243,
+      "sha256": "5d56fe05e336dd95570cfa7cb031a0f225428fd75d20721f99692afaac56816f"
+    },
+    {
+      "id": "54aef09a597c",
+      "name": "绳索下压",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/54aef09a597c-d882ac2bfed1.jpg",
+      "bytes": 116056,
+      "sha256": "d882ac2bfed1650246df38ac7318b3cb26e03ce5054ebd4c708220f6bc5cefcc"
+    },
+    {
+      "id": "e6e3b1cf64a6",
+      "name": "器械侧平举",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e6e3b1cf64a6-215be1bf3f4f.jpg",
+      "bytes": 132807,
+      "sha256": "215be1bf3f4fae3170c5e3a1cf75175509e902f395d996b30fedef0b6bde22fd"
+    },
+    {
+      "id": "4ba6245952a7",
+      "name": "器械卷腹",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/4ba6245952a7-a1019aeb79c8.jpg",
+      "bytes": 147984,
+      "sha256": "a1019aeb79c80f0ac1e069c1f39b596a125b6173083f3308fe4d387ef2234f97"
+    },
+    {
+      "id": "b138bc0a1f3a",
+      "name": "悬垂举腿",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b138bc0a1f3a-a07f6f6b8260.jpg",
+      "bytes": 108294,
+      "sha256": "a07f6f6b826059fbfd7c23482186dbc4f20fc406eb0bf010f2a1dc99672a08f9"
+    },
+    {
+      "id": "8d6a8baca034",
+      "name": "宽握坐姿划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8d6a8baca034-eb07714ba266.jpg",
+      "bytes": 159060,
+      "sha256": "eb07714ba266b4b8991fcbc24378f1c1a5b7efca179a783b7282fa594f6a7460"
+    },
+    {
+      "id": "9e4fc4d8f721",
+      "name": "器械划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9e4fc4d8f721-e9afe4e80cb0.jpg",
+      "bytes": 142899,
+      "sha256": "e9afe4e80cb08bcb42b253aa58700f834d40943c59914fe20cfb7b605fda3f02"
+    },
+    {
+      "id": "68240f94b4c7",
+      "name": "杠铃卧推",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/68240f94b4c7-f5ef13256fa0.jpg",
+      "bytes": 140597,
+      "sha256": "f5ef13256fa0e4f1aa32ee5187abc5c3559f5981a30634d25840c3026144da49"
+    },
+    {
+      "id": "627472900061",
+      "name": "下胸飞鸟",
+      "category": "胸部",
+      "subgroup": "下胸",
+      "kind": "supplemental",
+      "path": "docs/exercise-media/627472900061-01b64ecd096e.jpg",
+      "bytes": 147399,
+      "sha256": "01b64ecd096efd8afc5f5850949e750bfb6fc88d75a380e1395db76755c0f223"
+    },
+    {
+      "id": "23f742c9bba3",
+      "name": "杠铃提拉",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "supplemental",
+      "path": "docs/exercise-media/23f742c9bba3-306cdc29e0a0.jpg",
+      "bytes": 117886,
+      "sha256": "306cdc29e0a0a0f7f4e80cff61d2c6eaec2613fe3a890dfccc47ae65663055af"
+    },
+    {
+      "id": "053733d9dc70",
+      "name": "上斜杠铃卧推",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/053733d9dc70-0d2e9e0389f2.jpg",
+      "bytes": 149787,
+      "sha256": "0d2e9e0389f2b612bd7639e9e02d33f3cf35e6ea3d1e83da6b13e0b326db4778"
+    },
+    {
+      "id": "153310bd59b1",
+      "name": "上斜哑铃卧推",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/153310bd59b1-7bbcb4f46443.jpg",
+      "bytes": 129117,
+      "sha256": "7bbcb4f46443a7fa909b331489f4e2b6a48d5d61c8af229c4cfc13469f946c9f"
+    },
+    {
+      "id": "c1507f83ef00",
+      "name": "上斜器械推胸",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c1507f83ef00-c60704365dd6.jpg",
+      "bytes": 170537,
+      "sha256": "c60704365dd67bb5952278d179f75bb19999e1bd694a48f3bd3e62d3ad0d1211"
+    },
+    {
+      "id": "4c6abe1f28b2",
+      "name": "上斜哑铃飞鸟",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/4c6abe1f28b2-1ccd9871cc87.jpg",
+      "bytes": 119203,
+      "sha256": "1ccd9871cc87ce3b43aa1c6b3c17ccae5df569cc94fb7cd4c95c42a622435f73"
+    },
+    {
+      "id": "20fd76359423",
+      "name": "低位绳索夹胸",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/20fd76359423-8fe886922e2b.jpg",
+      "bytes": 141795,
+      "sha256": "8fe886922e2bc10576f5b374c8ab1a5e3919f077bbfe29c010af8b118c7b188f"
+    },
+    {
+      "id": "6d06933c5bb5",
+      "name": "脚抬高俯卧撑",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6d06933c5bb5-a88bfe40aacb.jpg",
+      "bytes": 100931,
+      "sha256": "a88bfe40aacbebd6e90f237e4441ec1d23aa9373f75349f6ecf6457cfa3e5bae"
+    },
+    {
+      "id": "e79d60ae88ea",
+      "name": "反握杠铃卧推",
+      "category": "胸部",
+      "subgroup": "上胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e79d60ae88ea-066853117036.jpg",
+      "bytes": 141877,
+      "sha256": "066853117036258ce420dc7078c208d193b4c99a8c2c408ff5a297cbf50ac562"
+    },
+    {
+      "id": "2018951e15b3",
+      "name": "哑铃卧推",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2018951e15b3-950f32e7da5d.jpg",
+      "bytes": 121033,
+      "sha256": "950f32e7da5d7bd0161ba2f65a079ede485becf9768ba51225674b4ac37a87cc"
+    },
+    {
+      "id": "92b0c52b3a42",
+      "name": "平板哑铃飞鸟",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/92b0c52b3a42-793f691154ac.jpg",
+      "bytes": 124380,
+      "sha256": "793f691154ac8c17d5403b8b028918188bf44dcfdabfc35eae9ab77f34ae0bd1"
+    },
+    {
+      "id": "ae382ddc3ed8",
+      "name": "绳索夹胸",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ae382ddc3ed8-fefbdec99771.jpg",
+      "bytes": 153033,
+      "sha256": "fefbdec9977124e194220ca511f8f51a5fa2d42c767c6d2f7253a37f8d0c8428"
+    },
+    {
+      "id": "a2c014ee7d1b",
+      "name": "俯卧撑",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a2c014ee7d1b-089fb63293aa.jpg",
+      "bytes": 90203,
+      "sha256": "089fb63293aac728d7138348a9dff1da061bffbbc5d52b5c4bbc63e7c144026e"
+    },
+    {
+      "id": "c3854b2f0e14",
+      "name": "宽距俯卧撑",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c3854b2f0e14-13b906d2c692.jpg",
+      "bytes": 91417,
+      "sha256": "13b906d2c69278ab5ca878555316542ceb251b8f6a1b1efdeeb14498ecdc630b"
+    },
+    {
+      "id": "83d66ac8e90d",
+      "name": "跪姿俯卧撑",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/83d66ac8e90d-a539a0aa37cb.jpg",
+      "bytes": 96958,
+      "sha256": "a539a0aa37cbe0d2147ff7f821904d1769f7126b9ba0cb6b9049efad082c400f"
+    },
+    {
+      "id": "bdb527eeba43",
+      "name": "弹力带俯卧撑",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/bdb527eeba43-8a01bd2871ff.jpg",
+      "bytes": 91273,
+      "sha256": "8a01bd2871ff096a42fb0b8628df07eb232386544708a6d9efbd68d94b24f75f"
+    },
+    {
+      "id": "53f1a71bf8b4",
+      "name": "哑铃挤压卧推",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/53f1a71bf8b4-667d12660ded.jpg",
+      "bytes": 120714,
+      "sha256": "667d12660ded703477bac7bf0a9cdd4301f87836e8e2fdc46f93f313899e69b7"
+    },
+    {
+      "id": "a3463c1aef7b",
+      "name": "地板哑铃卧推",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a3463c1aef7b-a053a6ff5316.jpg",
+      "bytes": 105697,
+      "sha256": "a053a6ff5316b39db42952c2ac5effecf588072eb13decbb6900d02be4065a1e"
+    },
+    {
+      "id": "b02ebce2e854",
+      "name": "单臂哑铃卧推",
+      "category": "胸部",
+      "subgroup": "中胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b02ebce2e854-4493259f7342.jpg",
+      "bytes": 114504,
+      "sha256": "4493259f7342b49fad8d173c07c5161a3883ad8d62205296143b7a9d2df5e2ad"
+    },
+    {
+      "id": "9f4612e8f325",
+      "name": "下斜杠铃卧推",
+      "category": "胸部",
+      "subgroup": "下胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9f4612e8f325-1de438e6bf06.jpg",
+      "bytes": 126337,
+      "sha256": "1de438e6bf061075f32ae4b7e9029414be906d8c64b89f0c4767e42e5da9f5b8"
+    },
+    {
+      "id": "857e7c8be1fc",
+      "name": "下斜哑铃卧推",
+      "category": "胸部",
+      "subgroup": "下胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/857e7c8be1fc-732be22bcffd.jpg",
+      "bytes": 118414,
+      "sha256": "732be22bcffdd5333520071bf5f2d4541ef09268157b544225bd75c2028e7841"
+    },
+    {
+      "id": "054379e08c78",
+      "name": "下斜史密斯卧推",
+      "category": "胸部",
+      "subgroup": "下胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/054379e08c78-996a8fe6b7ae.jpg",
+      "bytes": 141856,
+      "sha256": "996a8fe6b7aeb39d34c7a203a61eb7029e8ab54f3a1b9e8cb89a4a9b11855af8"
+    },
+    {
+      "id": "752c2776b5d0",
+      "name": "高位绳索夹胸",
+      "category": "胸部",
+      "subgroup": "下胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/752c2776b5d0-f618f40e9db0.jpg",
+      "bytes": 139079,
+      "sha256": "f618f40e9db0e26bf0ce80c7e82a326a6a9bf3f00fff82f466e1f0a65a4b96d7"
+    },
+    {
+      "id": "c0a90e1e7458",
+      "name": "胸式双杠臂屈伸",
+      "category": "胸部",
+      "subgroup": "下胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c0a90e1e7458-ca6a634987fa.jpg",
+      "bytes": 108504,
+      "sha256": "ca6a634987fa51e58477299a4169e0b135dd18c5e632c6b25527e0278b0581e7"
+    },
+    {
+      "id": "c3f53a4b77a1",
+      "name": "上斜俯卧撑",
+      "category": "胸部",
+      "subgroup": "下胸",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c3f53a4b77a1-80bd9a5df6d5.jpg",
+      "bytes": 110559,
+      "sha256": "80bd9a5df6d5564ca71c64a9c67e5ba220664972d475bfc5aab4b8d644603b31"
+    },
+    {
+      "id": "ee93dacafa68",
+      "name": "弹力带辅助引体向上",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ee93dacafa68-982eacf4e023.jpg",
+      "bytes": 113263,
+      "sha256": "982eacf4e02389b3b5fb8349fa5e0aeba6893f22e371f2404507d18e98268fed"
+    },
+    {
+      "id": "1f5fd2734310",
+      "name": "窄握高位下拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1f5fd2734310-4808b1a52e6c.jpg",
+      "bytes": 118044,
+      "sha256": "4808b1a52e6c52086fe8c390098e7a4d6cadc858fa1538b84458ddf7a7fd86ad"
+    },
+    {
+      "id": "a2b17e98a66e",
+      "name": "单臂高位下拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a2b17e98a66e-e0df5925fb2b.jpg",
+      "bytes": 117712,
+      "sha256": "e0df5925fb2bf904b68d4c6b1902370934f215d2a50e1e88dc2e52340a9d5e93"
+    },
+    {
+      "id": "d14c8142bbc5",
+      "name": "直臂下压",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/d14c8142bbc5-eceeb569e5de.jpg",
+      "bytes": 110682,
+      "sha256": "eceeb569e5de2381ca86364465578c71979ca35e7d469815bd8f097994489c51"
+    },
+    {
+      "id": "9783aa750b31",
+      "name": "哑铃上拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9783aa750b31-b8f81c16e9e6.jpg",
+      "bytes": 117521,
+      "sha256": "b8f81c16e9e60ec422e72cfc51658a994cbd1358f2ced21ad4ae0f0c9a1f6004"
+    },
+    {
+      "id": "67a6727f2bb6",
+      "name": "绳索上拉",
+      "category": "背部",
+      "subgroup": "垂直拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/67a6727f2bb6-27696d621a7b.jpg",
+      "bytes": 137120,
+      "sha256": "27696d621a7b86b1717ea2d0dc26806522e28533ac1e641aea1889d3c3326578"
+    },
+    {
+      "id": "cfd45255113b",
+      "name": "杠铃划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/cfd45255113b-f4ceb0b8d1f4.jpg",
+      "bytes": 108944,
+      "sha256": "f4ceb0b8d1f49dbc917cc3c1bd0db2cfff2a056240ace2f93b86677ec6c3cf5b"
+    },
+    {
+      "id": "51d65edf0b43",
+      "name": "反握杠铃划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/51d65edf0b43-d2b8c271c833.jpg",
+      "bytes": 126084,
+      "sha256": "d2b8c271c833cc03512e823662264d645f109dda5ec3cdfe421f9a47217609e0"
+    },
+    {
+      "id": "03b69c9e25af",
+      "name": "潘德雷划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/03b69c9e25af-920d3907c4e0.jpg",
+      "bytes": 114133,
+      "sha256": "920d3907c4e06335164f6bb5c4fae30579914810b3019b10260cdb2af4223025"
+    },
+    {
+      "id": "ee16c25b79ec",
+      "name": "哑铃划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ee16c25b79ec-072b750f74e6.jpg",
+      "bytes": 108717,
+      "sha256": "072b750f74e6ff530ee532b22ecf3e7acfb33e515ac9e47cf1b501ede3b77576"
+    },
+    {
+      "id": "068c1520c80a",
+      "name": "单臂哑铃划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/068c1520c80a-fda1b249f507.jpg",
+      "bytes": 119353,
+      "sha256": "fda1b249f507e470ffef427dd55074825e693607929f2e3aa3e34087995e581c"
+    },
+    {
+      "id": "9d27323a7a11",
+      "name": "窄握坐姿划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9d27323a7a11-93d443b7bacd.jpg",
+      "bytes": 135592,
+      "sha256": "93d443b7bacd1dbd74a34bea4fce8a13a69fc872bde586d4e29648cdbf00f8fb"
+    },
+    {
+      "id": "a2a2433a9a0f",
+      "name": "单臂绳索划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a2a2433a9a0f-44bdfd06b478.jpg",
+      "bytes": 129348,
+      "sha256": "44bdfd06b4784872ca04b60ac8c5c2cf36eed8a9bbc3bf162ee91f9d09602351"
+    },
+    {
+      "id": "56a5ad7b44ef",
+      "name": "胸托哑铃划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/56a5ad7b44ef-94004a955695.jpg",
+      "bytes": 124960,
+      "sha256": "94004a955695da54280718278a50b7efc4c3eb0ec1aa9669265be8389ab70de9"
+    },
+    {
+      "id": "ef0ea16a0204",
+      "name": "胸托器械划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ef0ea16a0204-ae4053880ccc.jpg",
+      "bytes": 142360,
+      "sha256": "ae4053880cccc71795204397efee898a08212a35c51a8ab5d761a6bbfd63dd42"
+    },
+    {
+      "id": "d80557b4274b",
+      "name": "T 杆划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/d80557b4274b-fed64beaabe9.jpg",
+      "bytes": 122436,
+      "sha256": "fed64beaabe974abc59629765116b09addaad94e44bc069a6d68b2ba877887c2"
+    },
+    {
+      "id": "b0c0a54df31f",
+      "name": "史密斯划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b0c0a54df31f-a123a9a28ef4.jpg",
+      "bytes": 135072,
+      "sha256": "a123a9a28ef43cc5f801090987b171db439a14967d8c62eeac506adabeefddbd"
+    },
+    {
+      "id": "f12f3ff263bf",
+      "name": "倒立划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f12f3ff263bf-8776eb9bbf70.jpg",
+      "bytes": 124560,
+      "sha256": "8776eb9bbf7051d241244a17da9d2ed277672fed4b03af46bf87e7551b1e32de"
+    },
+    {
+      "id": "d344f64bac1b",
+      "name": "弹力带划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/d344f64bac1b-b36a1c765d22.jpg",
+      "bytes": 120496,
+      "sha256": "b36a1c765d221a5bcc501d2b2c5826de388f766c378692f1e0465b50c5188252"
+    },
+    {
+      "id": "68ccfff2845d",
+      "name": "陆地雷划船",
+      "category": "背部",
+      "subgroup": "水平拉",
+      "kind": "predefined",
+      "path": "docs/exercise-media/68ccfff2845d-26f133151420.jpg",
+      "bytes": 109013,
+      "sha256": "26f1331514201815dca9082be8d2a826c29ed598eee6429bc5da8a83acfbacc0"
+    },
+    {
+      "id": "67bbc97aea21",
+      "name": "硬拉",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/67bbc97aea21-cb5e427f9d67.jpg",
+      "bytes": 108649,
+      "sha256": "cb5e427f9d6736ecf563e72e871b427e376789dfb3725b6be9e12c19b360943c"
+    },
+    {
+      "id": "acfc41220b06",
+      "name": "传统硬拉",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/acfc41220b06-578d2d26d7c9.jpg",
+      "bytes": 111528,
+      "sha256": "578d2d26d7c9b2b5f982e040b3c83d8ccc965260b8417bb8456e5b72f27572ed"
+    },
+    {
+      "id": "8e3789422ef2",
+      "name": "相扑硬拉",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8e3789422ef2-14cb34c2e0fa.jpg",
+      "bytes": 117865,
+      "sha256": "14cb34c2e0fa3214d6222ff2636d37d28a478cafe9afab3e2e57b8f4877d89d1"
+    },
+    {
+      "id": "2efd628e0d39",
+      "name": "架上硬拉",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2efd628e0d39-c767e90cfb4b.jpg",
+      "bytes": 150414,
+      "sha256": "c767e90cfb4bcd41919e8d121fdc6598d026d91596e114fa6ac1ed43e54280e5"
+    },
+    {
+      "id": "d3f49152b9d9",
+      "name": "六角杠硬拉",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/d3f49152b9d9-7e90297fc5f7.jpg",
+      "bytes": 117083,
+      "sha256": "7e90297fc5f724373be3e02620016ecb9e11d55d5ebcc28f4a55a9eb98209ce5"
+    },
+    {
+      "id": "03468b07db21",
+      "name": "背部挺身",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/03468b07db21-bfd573554d14.jpg",
+      "bytes": 101863,
+      "sha256": "bfd573554d14966283a7af081bca59e0cdd3d0c3ea510689120e0736c63e78ec"
+    },
+    {
+      "id": "f1e777bc5c24",
+      "name": "反向挺身",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f1e777bc5c24-27edfc17953a.jpg",
+      "bytes": 97560,
+      "sha256": "27edfc17953a553443c3c244a267c1dfcf79b20d2803dabe87d1c1c104907cdb"
+    },
+    {
+      "id": "e4e3047314c1",
+      "name": "早安式",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e4e3047314c1-98421ff9476a.jpg",
+      "bytes": 99537,
+      "sha256": "98421ff9476af094f1e8c8f79a6850c2c5770b0f3e4259c6ca882137998ef406"
+    },
+    {
+      "id": "23b85c7709ed",
+      "name": "绳索拉穿",
+      "category": "背部",
+      "subgroup": "下背与后链",
+      "kind": "predefined",
+      "path": "docs/exercise-media/23b85c7709ed-79a4011d68cc.jpg",
+      "bytes": 114976,
+      "sha256": "79a4011d68cc60e22831ac704c8329ad139c89795b8c6a65fa35a140fe18ea1a"
+    },
+    {
+      "id": "3e65ca9dfe3a",
+      "name": "杠铃耸肩",
+      "category": "背部",
+      "subgroup": "斜方肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3e65ca9dfe3a-7ccf5425b434.jpg",
+      "bytes": 103246,
+      "sha256": "7ccf5425b434dae3666b3320bf228f09618e8c111e7b976b7061050b7faea869"
+    },
+    {
+      "id": "7b1135082ad9",
+      "name": "哑铃耸肩",
+      "category": "背部",
+      "subgroup": "斜方肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7b1135082ad9-9430f613f37e.jpg",
+      "bytes": 92816,
+      "sha256": "9430f613f37e30cb6b846a3835b39af7a983a7aba700103f651479402111761a"
+    },
+    {
+      "id": "c5d25f861146",
+      "name": "史密斯耸肩",
+      "category": "背部",
+      "subgroup": "斜方肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c5d25f861146-4e54ec5caeff.jpg",
+      "bytes": 135395,
+      "sha256": "4e54ec5caeff702b04d96b2c72a7650f99a4121999536003f1e32a63d149e4cd"
+    },
+    {
+      "id": "b995db970635",
+      "name": "绳索耸肩",
+      "category": "背部",
+      "subgroup": "斜方肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b995db970635-d6aa96d3328c.jpg",
+      "bytes": 118768,
+      "sha256": "d6aa96d3328ca48b489319155d230f6a63d6d41ab04f7e065da974d3baee35fa"
+    },
+    {
+      "id": "b8e010adf433",
+      "name": "农夫行走",
+      "category": "背部",
+      "subgroup": "斜方肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b8e010adf433-11cf566b5fab.jpg",
+      "bytes": 96743,
+      "sha256": "11cf566b5fab6745da2171f891ce5a4a12432d312110a6acaf2206dc8ff69c80"
+    },
+    {
+      "id": "5497392f9f1e",
+      "name": "单侧农夫行走",
+      "category": "背部",
+      "subgroup": "斜方肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/5497392f9f1e-65f5db123a94.jpg",
+      "bytes": 96593,
+      "sha256": "65f5db123a9489a312003ca45938f4421621e9f2a555d3a949dd308938285f42"
+    },
+    {
+      "id": "2e3d12aac3ed",
+      "name": "哑铃肩推",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2e3d12aac3ed-f11f09e90f9e.jpg",
+      "bytes": 106196,
+      "sha256": "f11f09e90f9e45d9bf56155b8ea28eddb1957b482a734b60c91b6fb0590fa079"
+    },
+    {
+      "id": "e02f7e14b7fe",
+      "name": "杠铃肩推",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e02f7e14b7fe-32c0beb1a6dd.jpg",
+      "bytes": 112361,
+      "sha256": "32c0beb1a6ddff3e3ce973ebf2c35740bf64df7388f7dfdff794bcfce406f867"
+    },
+    {
+      "id": "a0b255343e00",
+      "name": "坐姿哑铃肩推",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a0b255343e00-16219c75ca49.jpg",
+      "bytes": 117906,
+      "sha256": "16219c75ca49c21cfeeafab806b12dbc4ed43e837e504795dcd19ab063ca50f8"
+    },
+    {
+      "id": "81f6276f63e8",
+      "name": "站姿哑铃肩推",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/81f6276f63e8-237099d7bcf3.jpg",
+      "bytes": 89293,
+      "sha256": "237099d7bcf37ebbeef6e7ddbed79187805c7535044671192052f0bd0e29615d"
+    },
+    {
+      "id": "fc82a944ab67",
+      "name": "史密斯肩推",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/fc82a944ab67-599989e61112.jpg",
+      "bytes": 131337,
+      "sha256": "599989e61112b7fa2009e99050f51bc81a869c029de12c0d0829748840dc5191"
+    },
+    {
+      "id": "ad44e733cba3",
+      "name": "阿诺德推举",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ad44e733cba3-9eaa25512a92.jpg",
+      "bytes": 104904,
+      "sha256": "9eaa25512a922823d48b63df23b43472c7514517345a8f174c807fc23cf852ca"
+    },
+    {
+      "id": "db816df003aa",
+      "name": "单臂哑铃肩推",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/db816df003aa-d95a2f3fc370.jpg",
+      "bytes": 85644,
+      "sha256": "d95a2f3fc370414328bce1f9acd6bd7c188fd56ad7386cd9625a6a39031ba108"
+    },
+    {
+      "id": "2d177912102a",
+      "name": "陆地雷推举",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2d177912102a-3646ae2e27af.jpg",
+      "bytes": 102693,
+      "sha256": "3646ae2e27af66dd1786ef644d8fef31df7456d8cf7273c4cfb676c5d15c77f1"
+    },
+    {
+      "id": "3ae460227221",
+      "name": "哑铃前平举",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3ae460227221-f90f3a657c33.jpg",
+      "bytes": 92765,
+      "sha256": "f90f3a657c330a19747de63bebc66847aa92ceff929a3110a85008fc68327be0"
+    },
+    {
+      "id": "3a4eae7487f7",
+      "name": "杠铃前平举",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3a4eae7487f7-7a1fa1d28dec.jpg",
+      "bytes": 100381,
+      "sha256": "7a1fa1d28dec5ca42ae1e0980d4462d72ca41757ac1c6225ea67150b86fa85b8"
+    },
+    {
+      "id": "aeea5d9f5231",
+      "name": "绳索前平举",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/aeea5d9f5231-5e166d72fd25.jpg",
+      "bytes": 122875,
+      "sha256": "5e166d72fd25e20cf4956af9fbd3ffe77868c1070d96bb384225f1cf6d7d31a6"
+    },
+    {
+      "id": "bdb75a662c97",
+      "name": "片铃前平举",
+      "category": "肩部",
+      "subgroup": "前束与推举",
+      "kind": "predefined",
+      "path": "docs/exercise-media/bdb75a662c97-81114a477b54.jpg",
+      "bytes": 91909,
+      "sha256": "81114a477b547751ec44b5c9aa4f2858bc31fc2234be9580cdce66193a9b32d1"
+    },
+    {
+      "id": "78143996e47d",
+      "name": "坐姿哑铃侧平举",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/78143996e47d-1929df944bdd.jpg",
+      "bytes": 123984,
+      "sha256": "1929df944bdd9a8aca4846cc36ba9b22ad2eccd68c73086dfe0f261ca2e184e3"
+    },
+    {
+      "id": "684b43084bba",
+      "name": "单臂哑铃侧平举",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/684b43084bba-d4f66cb5defa.jpg",
+      "bytes": 95082,
+      "sha256": "d4f66cb5defa25bace464ff0448bbbb9753cd205d49c03abed4eb2a39e9a861b"
+    },
+    {
+      "id": "028a9e6dd357",
+      "name": "单臂绳索侧平举",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/028a9e6dd357-7676cc0e1cac.jpg",
+      "bytes": 122614,
+      "sha256": "7676cc0e1caca58fcf7e09a88359561ef820ebc48348e559280eb2fd4c01ad5d"
+    },
+    {
+      "id": "f820f9065c3a",
+      "name": "倾斜哑铃侧平举",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f820f9065c3a-b722084dd6dc.jpg",
+      "bytes": 123223,
+      "sha256": "b722084dd6dcc6b7045d3615a5fdeeaa186999c18b455f5ff0928a889f592672"
+    },
+    {
+      "id": "6b30494925f5",
+      "name": "杠铃直立划船",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6b30494925f5-882c5445ecaf.jpg",
+      "bytes": 96478,
+      "sha256": "882c5445ecaffe170b296af6682cd0bf61fb7cb012fe3fd79b33b829308d9219"
+    },
+    {
+      "id": "489423888bda",
+      "name": "绳索直立划船",
+      "category": "肩部",
+      "subgroup": "中束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/489423888bda-a3eb9e52f834.jpg",
+      "bytes": 120827,
+      "sha256": "a3eb9e52f83495c3f8df9a1289142c2ef33686a0d12f481df79781bb32fec6c7"
+    },
+    {
+      "id": "91a7b53b4a3f",
+      "name": "俯身哑铃飞鸟",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/91a7b53b4a3f-7da571979886.jpg",
+      "bytes": 107060,
+      "sha256": "7da5719798868c4e7410c40e69dec4c43935b647765accea1dbabf870ec1aead"
+    },
+    {
+      "id": "fd4b8756442f",
+      "name": "坐姿俯身哑铃飞鸟",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/fd4b8756442f-5ee8c3224dbf.jpg",
+      "bytes": 106803,
+      "sha256": "5ee8c3224dbf88a32b14838c9f16d066741a622b6883b0e2495e45206cab8a54"
+    },
+    {
+      "id": "9e44f7d9d397",
+      "name": "上斜俯卧哑铃飞鸟",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9e44f7d9d397-d84fc15cb689.jpg",
+      "bytes": 128260,
+      "sha256": "d84fc15cb68996d1601d94a842d2c3d524a021ff139e3dd3fb03e557e155f06e"
+    },
+    {
+      "id": "8e7e7df540f7",
+      "name": "绳索反向飞鸟",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8e7e7df540f7-454501a95e86.jpg",
+      "bytes": 132230,
+      "sha256": "454501a95e86e69b1c368d128b92067ac7dbb48a3e667b0762dea3fc9eee331b"
+    },
+    {
+      "id": "7d245eb50f20",
+      "name": "单臂绳索反向飞鸟",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7d245eb50f20-196c1705dc28.jpg",
+      "bytes": 126157,
+      "sha256": "196c1705dc285c941ed1f8b4056d8e8da66ce69013dbafbe0d9ec0cca5265549"
+    },
+    {
+      "id": "aa1544cbd944",
+      "name": "后束划船",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/aa1544cbd944-cd4173975378.jpg",
+      "bytes": 121069,
+      "sha256": "cd4173975378f5362f2aec1fcf3e761df1a537435e25fd0e5be678239a8b9095"
+    },
+    {
+      "id": "f3ac654a0597",
+      "name": "面拉",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f3ac654a0597-1fbc4f6c5284.jpg",
+      "bytes": 120154,
+      "sha256": "1fbc4f6c5284966bdc574df5c0f431c905e939382128f9a525426dffb539b1bd"
+    },
+    {
+      "id": "927c6e18b6eb",
+      "name": "弹力带拉开",
+      "category": "肩部",
+      "subgroup": "后束",
+      "kind": "predefined",
+      "path": "docs/exercise-media/927c6e18b6eb-76b734b7d5ea.jpg",
+      "bytes": 95739,
+      "sha256": "76b734b7d5ea2c529ae74ce51cd84c1b92c6e6140d59c44fc46ac74076d4b1e5"
+    },
+    {
+      "id": "9795a6039fa2",
+      "name": "绳索肩外旋",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9795a6039fa2-df2812494f49.jpg",
+      "bytes": 120567,
+      "sha256": "df2812494f49cabff888a4be87b55f997bdd03e2c72b079e7749a60a0a89ba2a"
+    },
+    {
+      "id": "670882920fdc",
+      "name": "绳索肩内旋",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/670882920fdc-d2698311080b.jpg",
+      "bytes": 132436,
+      "sha256": "d2698311080bfe63b0fe48697ce26d30325983f79d3eecc014115fa8cbd608b3"
+    },
+    {
+      "id": "c0b6612efe34",
+      "name": "侧卧哑铃外旋",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c0b6612efe34-06cd74923ada.jpg",
+      "bytes": 95754,
+      "sha256": "06cd74923ada897c6779ec37b1bdc7ecb8d7db54438c5072d81654acde892152"
+    },
+    {
+      "id": "863867ae36fe",
+      "name": "弹力带肩外旋",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/863867ae36fe-21b245d71358.jpg",
+      "bytes": 108149,
+      "sha256": "21b245d71358f3de50dfbf7c44ced506e24cadd2560459a70b13b256d9616b80"
+    },
+    {
+      "id": "74475b6a8667",
+      "name": "弹力带肩内旋",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/74475b6a8667-312cb89dc26e.jpg",
+      "bytes": 118882,
+      "sha256": "312cb89dc26e64b388f2c299517f50a2e243a416489ee10816c75c0b0b48ee5c"
+    },
+    {
+      "id": "6e3a7e5ee23f",
+      "name": "俯卧 Y 举",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6e3a7e5ee23f-0dac3ba2da87.jpg",
+      "bytes": 111958,
+      "sha256": "0dac3ba2da87943b15fc0dc73dcb0a2b534b126aa97a8aad93a56bf1db427c2d"
+    },
+    {
+      "id": "c374630b1a69",
+      "name": "俯卧 T 举",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c374630b1a69-63cf02c35341.jpg",
+      "bytes": 110561,
+      "sha256": "63cf02c35341b594b94d2e75544f2f29baa40cf6c8ceaebd6b8a2d96dcc4a251"
+    },
+    {
+      "id": "77e4559cd01e",
+      "name": "俯卧 W 举",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/77e4559cd01e-fc094f2b81ae.jpg",
+      "bytes": 116694,
+      "sha256": "fc094f2b81aefc018c50ef1e762dd5799ba20b59363e184d67cfeb1a12f6f100"
+    },
+    {
+      "id": "11ece4481c44",
+      "name": "肩胛俯卧撑",
+      "category": "肩部",
+      "subgroup": "肩袖与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/11ece4481c44-37c1bca2c9d4.jpg",
+      "bytes": 89575,
+      "sha256": "37c1bca2c9d49dec540e7310a36f6253a7fd8d1c83233f98f3b148493c41a96b"
+    },
+    {
+      "id": "c875c9cb3970",
+      "name": "杠铃弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c875c9cb3970-7310056f0247.jpg",
+      "bytes": 100348,
+      "sha256": "7310056f0247d7352d6c84852c4d0ea5215ce870165680cd70968f1b4422ab5c"
+    },
+    {
+      "id": "559668d6587c",
+      "name": "EZ 杆弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/559668d6587c-3a61effb2ff3.jpg",
+      "bytes": 93436,
+      "sha256": "3a61effb2ff35eea8f8f1b9d538d95b71e0f97ad37bf2be57c07e99f607c812a"
+    },
+    {
+      "id": "68759217c3bb",
+      "name": "哑铃弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/68759217c3bb-e07a3ea40a73.jpg",
+      "bytes": 90560,
+      "sha256": "e07a3ea40a73dd83be9ac154b76421da4625b72982e62ac0c53592cc3b7089ed"
+    },
+    {
+      "id": "61e45f20dee1",
+      "name": "交替哑铃弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/61e45f20dee1-321645c57276.jpg",
+      "bytes": 93577,
+      "sha256": "321645c57276166f192bc03818a6caa8541dfa9b0abc8732115bad9e69f1f812"
+    },
+    {
+      "id": "834ff3062556",
+      "name": "上斜哑铃弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/834ff3062556-0e4657486299.jpg",
+      "bytes": 118826,
+      "sha256": "0e465748629981d798051647defe40d76b28c0560fdc07744fa6da50cc05cf2a"
+    },
+    {
+      "id": "012c2fc72c96",
+      "name": "锤式弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/012c2fc72c96-ea3397a8687f.jpg",
+      "bytes": 92061,
+      "sha256": "ea3397a8687f45114eb4c89860ce20b41b8c0b1e9c7f0b6dc09634a45d552c01"
+    },
+    {
+      "id": "5aea02a8bb8b",
+      "name": "交替锤式弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/5aea02a8bb8b-4edaafa130ac.jpg",
+      "bytes": 119470,
+      "sha256": "4edaafa130acd68243fb0e9f5f7bc7d445c6424c29972cae7d8ae13dcddf4a22"
+    },
+    {
+      "id": "aca3fca296a9",
+      "name": "绳索锤式弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/aca3fca296a9-8f725d62abb7.jpg",
+      "bytes": 118560,
+      "sha256": "8f725d62abb7f66d32ba73fb72fdf3077ae10b186187cd71706dd878e3d6fcfd"
+    },
+    {
+      "id": "a546cf72bf2e",
+      "name": "牧师凳弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a546cf72bf2e-d04bcf3064af.jpg",
+      "bytes": 125827,
+      "sha256": "d04bcf3064afea02e9fabb5f2869be444522183b325c5ab6fce3cab688668d3f"
+    },
+    {
+      "id": "3ded8e7e67f7",
+      "name": "哑铃牧师凳弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3ded8e7e67f7-7ce3f3c252f6.jpg",
+      "bytes": 122849,
+      "sha256": "7ce3f3c252f6b1dca8d28b21b3cb679ce725ee6789b669513c02914abbc3e77a"
+    },
+    {
+      "id": "6b191196460c",
+      "name": "器械牧师弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6b191196460c-8c6fb4956115.jpg",
+      "bytes": 127057,
+      "sha256": "8c6fb49561153aba057ab52a62d5c06aca11ea22f72055b7f4151b5594ca70c8"
+    },
+    {
+      "id": "b26545746067",
+      "name": "集中弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b26545746067-0108b2f11682.jpg",
+      "bytes": 116768,
+      "sha256": "0108b2f116823d3b3b560f5828cdb67029c55b3c42ecd5dde1769af86c85cdf5"
+    },
+    {
+      "id": "8fac7e840b08",
+      "name": "蜘蛛弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8fac7e840b08-353a9ddd7edb.jpg",
+      "bytes": 130189,
+      "sha256": "353a9ddd7edbdf999f5c4ce0c68be3f74b2df1a7fa77a50f97c802c5e6c991a1"
+    },
+    {
+      "id": "00c999706db0",
+      "name": "拖曳弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/00c999706db0-668c45d15373.jpg",
+      "bytes": 89584,
+      "sha256": "668c45d153737f86c761784ebacd8a4e464aebd7b221ef94ba8b23d8cfc39384"
+    },
+    {
+      "id": "5580bd58c563",
+      "name": "高位绳索弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/5580bd58c563-662a4f07af02.jpg",
+      "bytes": 138784,
+      "sha256": "662a4f07af021cac41010323e75a621cc035a845dcf21a60ca201e015e6ee272"
+    },
+    {
+      "id": "f2e479b1586e",
+      "name": "弹力带弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f2e479b1586e-3c09dbfb1bce.jpg",
+      "bytes": 96181,
+      "sha256": "3c09dbfb1bce9bf001f9a611c16392c41ad278f1ad925f5d6fbd7569345ca875"
+    },
+    {
+      "id": "e9928da6c03e",
+      "name": "佐特曼弯举",
+      "category": "手臂",
+      "subgroup": "肱二头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e9928da6c03e-be1b5faa5571.jpg",
+      "bytes": 90405,
+      "sha256": "be1b5faa5571979a8c7e812ed9628672580a665ac430740d0c678a64cba83a32"
+    },
+    {
+      "id": "8f9460e59d16",
+      "name": "直杆绳索下压",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8f9460e59d16-8557e500cd2e.jpg",
+      "bytes": 115918,
+      "sha256": "8557e500cd2e797255277432ebe3c05127300ec8af4efeb48429dfde1f9d2df5"
+    },
+    {
+      "id": "2538fee3faeb",
+      "name": "绳索绳头下压",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2538fee3faeb-32a78ffc8e9b.jpg",
+      "bytes": 114364,
+      "sha256": "32a78ffc8e9b140662f86b19e5cf92ef4860aeb3e60590da3a888fc33f3db01b"
+    },
+    {
+      "id": "ef38d19a2b49",
+      "name": "反握绳索下压",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ef38d19a2b49-6800a6c6bb94.jpg",
+      "bytes": 112830,
+      "sha256": "6800a6c6bb946f909bc32b811ef2fa7ede82c5a58bb5b2beda74d0b9a92509fc"
+    },
+    {
+      "id": "b33d1e185a0d",
+      "name": "单臂绳索下压",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b33d1e185a0d-d7915442ea55.jpg",
+      "bytes": 111727,
+      "sha256": "d7915442ea55028472eb4d4f886c1a878ba9732922a5ed1e73f6b7ee54f99b3a"
+    },
+    {
+      "id": "2fbefac039fd",
+      "name": "过顶绳索臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2fbefac039fd-65ea3dd2b9c1.jpg",
+      "bytes": 113478,
+      "sha256": "65ea3dd2b9c1aa52fa3f445f558d79ccac532b91751b4495d3aa9f02685e50d9"
+    },
+    {
+      "id": "f2c71c81e2a0",
+      "name": "哑铃过顶臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f2c71c81e2a0-ef48eb38d86e.jpg",
+      "bytes": 85703,
+      "sha256": "ef48eb38d86e939b5dbd8f82164e3c5fe67e2b421e474b927630078c980ad621"
+    },
+    {
+      "id": "770780b34e75",
+      "name": "单臂哑铃过顶臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/770780b34e75-4f2b666dfe84.jpg",
+      "bytes": 86193,
+      "sha256": "4f2b666dfe840457d77e8d9c6a792b30ba4426a7a8fab363f2c8f99944c57265"
+    },
+    {
+      "id": "39b9feba431e",
+      "name": "仰卧杠铃臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/39b9feba431e-e8fff1b1bfa0.jpg",
+      "bytes": 113775,
+      "sha256": "e8fff1b1bfa045aa303948d8645f360842f46b34adcadea6976e1a0788384fd5"
+    },
+    {
+      "id": "7c160100b13c",
+      "name": "仰卧哑铃臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7c160100b13c-f4457b7a1048.jpg",
+      "bytes": 117016,
+      "sha256": "f4457b7a1048c6a0ca69fcf871fc4df834f3f0f9be34830d307a068bb2dc8427"
+    },
+    {
+      "id": "dc1234a760c1",
+      "name": "EZ 杆仰卧臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/dc1234a760c1-de57348b7f12.jpg",
+      "bytes": 116953,
+      "sha256": "de57348b7f12dd903d5f37c44b3493e95a88c24deaf2aab922d35187ff5cf633"
+    },
+    {
+      "id": "f10e7230432d",
+      "name": "窄握卧推",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f10e7230432d-1c8f839d4f4e.jpg",
+      "bytes": 130188,
+      "sha256": "1c8f839d4f4e25ee745ada7d7e36b873672f6b3604b5020dbc34519ee4b9b38f"
+    },
+    {
+      "id": "97162c6b391d",
+      "name": "窄距俯卧撑",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/97162c6b391d-209b56c8467a.jpg",
+      "bytes": 92579,
+      "sha256": "209b56c8467ac1bc14cee47bcd242e7b1fec4d5329954040e936aba80ae4c653"
+    },
+    {
+      "id": "bdfbbd9b09ed",
+      "name": "钻石俯卧撑",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/bdfbbd9b09ed-f2747589b19b.jpg",
+      "bytes": 100069,
+      "sha256": "f2747589b19ba2f6189a93e9e2c561fdde9393b3c13d0a641e18cb7f2edd7705"
+    },
+    {
+      "id": "07e43bbfb9c1",
+      "name": "凳上臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/07e43bbfb9c1-e38afef92440.jpg",
+      "bytes": 113220,
+      "sha256": "e38afef92440e0bd0781b8c2ca8717ac6f745faa0d7dc5416334c882ce7b5b83"
+    },
+    {
+      "id": "f4f5468f9bb2",
+      "name": "三头式双杠臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f4f5468f9bb2-72b2d2df0cfe.jpg",
+      "bytes": 108598,
+      "sha256": "72b2d2df0cfe77c48bd9b4063872cb1d8a52a08b2284f71347aa897b06b6d2a6"
+    },
+    {
+      "id": "eb735c6ad00d",
+      "name": "哑铃后踢",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/eb735c6ad00d-0ec88dbf47e0.jpg",
+      "bytes": 118566,
+      "sha256": "0ec88dbf47e0d3f4cd1da438e50aa4293f196bf5bcf7be4eb0cd0f19b4fb3d70"
+    },
+    {
+      "id": "62dd2d3b98b1",
+      "name": "绳索后踢",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/62dd2d3b98b1-029a483f7e27.jpg",
+      "bytes": 136772,
+      "sha256": "029a483f7e277117bba5bd6d9387a98d12f21204446fcaaf273d9551e5409499"
+    },
+    {
+      "id": "35e9f5ee969c",
+      "name": "器械臂屈伸",
+      "category": "手臂",
+      "subgroup": "肱三头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/35e9f5ee969c-2eabe0b70fa8.jpg",
+      "bytes": 126336,
+      "sha256": "2eabe0b70fa835647ccd788c32593dd4376d91bdbd199c7739d12c009ebebd6f"
+    },
+    {
+      "id": "c93b35cb738d",
+      "name": "杠铃腕弯举",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c93b35cb738d-8ecca834e464.jpg",
+      "bytes": 126757,
+      "sha256": "8ecca834e46473d9a6dfab0dec157c4a7c86e7e6e5aeb8fbb5d7995228c27afe"
+    },
+    {
+      "id": "b740969bd48f",
+      "name": "哑铃腕弯举",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b740969bd48f-c385e60677a3.jpg",
+      "bytes": 115916,
+      "sha256": "c385e60677a3f554e0e28982934ad5517b716c50964b09a47472423659f82c93"
+    },
+    {
+      "id": "355ed562c3ca",
+      "name": "反向腕弯举",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/355ed562c3ca-7d6ae481ca5c.jpg",
+      "bytes": 131768,
+      "sha256": "7d6ae481ca5c3cda1efbd3a50d036e3ff3a7bacd011faf5e284c5b611f2a22a9"
+    },
+    {
+      "id": "bcbf986d892c",
+      "name": "反握杠铃弯举",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/bcbf986d892c-a70552d6e199.jpg",
+      "bytes": 95553,
+      "sha256": "a70552d6e19924080433f44407d0970f5192f5af90f65d6298f0be474b20f8e7"
+    },
+    {
+      "id": "76c5e30abe59",
+      "name": "反握绳索弯举",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/76c5e30abe59-1d51a9b375fa.jpg",
+      "bytes": 122264,
+      "sha256": "1d51a9b375fa7510c7e8c6362a1d5090e309adab9fe40e3815591b5bab8eab93"
+    },
+    {
+      "id": "8b42924dfc20",
+      "name": "腕部旋前",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8b42924dfc20-9f501b1a06ed.jpg",
+      "bytes": 122285,
+      "sha256": "9f501b1a06edaa38c479ddc59a1249ac8befd459e6fb85d1f83a34f0c25b53e6"
+    },
+    {
+      "id": "6cfe0d053aa9",
+      "name": "腕部旋后",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6cfe0d053aa9-4f01a830d238.jpg",
+      "bytes": 115677,
+      "sha256": "4f01a830d238739da7acf1fe47a644fe9bef72140afa78e2c66d02468d052ba1"
+    },
+    {
+      "id": "af2d063a8187",
+      "name": "握力器",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/af2d063a8187-f18ec2e8989f.jpg",
+      "bytes": 116923,
+      "sha256": "f18ec2e8989f62511b7a14aaaa0ccf831dc4b6374d78610c63480597c1799112"
+    },
+    {
+      "id": "4e720177242e",
+      "name": "片铃捏握",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/4e720177242e-26d34b29492e.jpg",
+      "bytes": 111576,
+      "sha256": "26d34b29492edd34ee6c93f2f0d83b564a2e06e372b455704a29d342f759f974"
+    },
+    {
+      "id": "7ce96c6afd5c",
+      "name": "悬垂握持",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7ce96c6afd5c-7d46695d5a38.jpg",
+      "bytes": 107416,
+      "sha256": "7d46695d5a38b3a64f6a577b8a268191bbab82ba82ea8ebcdaa8a994df338304"
+    },
+    {
+      "id": "f478e3daf2da",
+      "name": "腕力滚筒",
+      "category": "手臂",
+      "subgroup": "前臂与握力",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f478e3daf2da-d51851a96d17.jpg",
+      "bytes": 96906,
+      "sha256": "d51851a96d1785729a1b333ff9fb4c0d7028ae7a9ba467e89bee0704b15b4984"
+    },
+    {
+      "id": "971dee1e0dd6",
+      "name": "杠铃深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/971dee1e0dd6-8148ea7321e0.jpg",
+      "bytes": 130027,
+      "sha256": "8148ea7321e0d08d5a79b322f4d93201c33453a51147b1955b7a261ed114bbd8"
+    },
+    {
+      "id": "b4a8e600cf1e",
+      "name": "高杠深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b4a8e600cf1e-a6e578c54a7f.jpg",
+      "bytes": 118694,
+      "sha256": "a6e578c54a7fe7cfa2ac8f99b49f6f79cfc347eedae4a88ed9f8745c7308b885"
+    },
+    {
+      "id": "18db65849e46",
+      "name": "低杠深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/18db65849e46-b5242e98d186.jpg",
+      "bytes": 125585,
+      "sha256": "b5242e98d186672f2225ef4b857dc0bfd5d12afcfd0705cbd06ffe7d42c9140c"
+    },
+    {
+      "id": "cb93c5d651ad",
+      "name": "前蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/cb93c5d651ad-e86e09d31341.jpg",
+      "bytes": 119114,
+      "sha256": "e86e09d31341ee52f016bbb97b16299e71020c14b68acbd507d135dc8fc19ec6"
+    },
+    {
+      "id": "8ef313b59135",
+      "name": "高脚杯深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8ef313b59135-730815069174.jpg",
+      "bytes": 109182,
+      "sha256": "7308150691742edad29c9444d2ef59ff66d8528430a66efe93cc60ca3fc394c2"
+    },
+    {
+      "id": "b981c23e966d",
+      "name": "史密斯深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b981c23e966d-3006975ecf17.jpg",
+      "bytes": 139318,
+      "sha256": "3006975ecf179b1b59ffdc10e11d0f744ebd13feb84027514eb3a786cb9d3e4c"
+    },
+    {
+      "id": "5da900fe2c36",
+      "name": "哈克深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/5da900fe2c36-485ba8330e8b.jpg",
+      "bytes": 137541,
+      "sha256": "485ba8330e8b81f1ca4377fb8bb9396320e4867179d81e631caf2b6e8749c426"
+    },
+    {
+      "id": "2ce06efbce48",
+      "name": "器械钟摆深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2ce06efbce48-637b9cb9b8ed.jpg",
+      "bytes": 148543,
+      "sha256": "637b9cb9b8ed30914ee959d448561499d99431d97277bab1cd45a614d7f093c7"
+    },
+    {
+      "id": "7590b4ff0bd8",
+      "name": "腿举",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7590b4ff0bd8-c3ac4aae530c.jpg",
+      "bytes": 141724,
+      "sha256": "c3ac4aae530c8c798559781333ad5eed2bd87791a1658b4770900845007a5d58"
+    },
+    {
+      "id": "1b9eb4a3a8ca",
+      "name": "单腿腿举",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1b9eb4a3a8ca-8fe4fd986e19.jpg",
+      "bytes": 136730,
+      "sha256": "8fe4fd986e194b1e45159737c953bfb00f95e2c399a330a8258493d180281be7"
+    },
+    {
+      "id": "e7430483f302",
+      "name": "腿屈伸",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e7430483f302-ec6aee66c964.jpg",
+      "bytes": 136367,
+      "sha256": "ec6aee66c964e785c41d9c86949617cbe35b7041b9339a500253bace71e4176b"
+    },
+    {
+      "id": "283db35fde6b",
+      "name": "单腿腿屈伸",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/283db35fde6b-ffb6513579fb.jpg",
+      "bytes": 137797,
+      "sha256": "ffb6513579fb79aa5dd111ce716e2e4c7f68e6161629d267459922f6754e62a0"
+    },
+    {
+      "id": "ceba21e06ab9",
+      "name": "箭步蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ceba21e06ab9-b49d4606f2d6.jpg",
+      "bytes": 99579,
+      "sha256": "b49d4606f2d6b570f2320a1c46a7fb2c10e01be582c193db31c9f318b623510a"
+    },
+    {
+      "id": "0b570d2a9197",
+      "name": "行走箭步蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/0b570d2a9197-23ebdd343a97.jpg",
+      "bytes": 102331,
+      "sha256": "23ebdd343a975ecbbb8c2638305e7656ffc72ddb80a76724c21f24fbc95ebe4c"
+    },
+    {
+      "id": "18cb5795d78d",
+      "name": "反向箭步蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/18cb5795d78d-0147897438ea.jpg",
+      "bytes": 116224,
+      "sha256": "0147897438ea7863c65fda8cb6dd0d7fe5b8b4ef13596206e1c2942eee6a83fc"
+    },
+    {
+      "id": "57e3fa6074e8",
+      "name": "保加利亚分腿蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/57e3fa6074e8-271150cec9e3.jpg",
+      "bytes": 111674,
+      "sha256": "271150cec9e3d37eab7ba7867472273db72bf145a469c0efc73bb253bbcc7992"
+    },
+    {
+      "id": "b9b84a6d9a30",
+      "name": "分腿蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b9b84a6d9a30-b071350b5b7b.jpg",
+      "bytes": 93591,
+      "sha256": "b071350b5b7b823d35bc731ce4d96a6b74511a16a71bc059709210e8b3653f56"
+    },
+    {
+      "id": "1c5ec02477b2",
+      "name": "登阶",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1c5ec02477b2-93cf1172bd6d.jpg",
+      "bytes": 93499,
+      "sha256": "93cf1172bd6dcaab665bd9d67c39174ec724229baacdda75679bac1cd4bac539"
+    },
+    {
+      "id": "0076be556b04",
+      "name": "单腿深蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/0076be556b04-53d68de51173.jpg",
+      "bytes": 112446,
+      "sha256": "53d68de511735c7a89b2fef1537ccbafd43b5bae9bdabe0c0f9300ff39dbf326"
+    },
+    {
+      "id": "621ec9ff4b15",
+      "name": "西西蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/621ec9ff4b15-ae3756a6aad4.jpg",
+      "bytes": 103568,
+      "sha256": "ae3756a6aad4a1a72966be338908f16181fb0471655449d0260edb1018be842a"
+    },
+    {
+      "id": "40b6f8de1a2a",
+      "name": "靠墙静蹲",
+      "category": "腿部",
+      "subgroup": "股四头肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/40b6f8de1a2a-d220ea01927b.jpg",
+      "bytes": 98880,
+      "sha256": "d220ea01927b69a6ccc20705403a53af0e57734e86813d5022bfe068341e42d9"
+    },
+    {
+      "id": "f7acd86f7333",
+      "name": "罗马尼亚硬拉",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f7acd86f7333-9bcf6bf2a8a4.jpg",
+      "bytes": 110866,
+      "sha256": "9bcf6bf2a8a449a6d7ce2d107bf7b79911c29d6abb5f8e3ff24df1d06e55db0f"
+    },
+    {
+      "id": "61df129c2b7a",
+      "name": "哑铃罗马尼亚硬拉",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/61df129c2b7a-628e67b6cf41.jpg",
+      "bytes": 100949,
+      "sha256": "628e67b6cf41707d0a4d1fe16a2d13838df1438eefb143bafebb62465a4dd56d"
+    },
+    {
+      "id": "cd60d8e15ceb",
+      "name": "单腿罗马尼亚硬拉",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/cd60d8e15ceb-de7302943ced.jpg",
+      "bytes": 94434,
+      "sha256": "de7302943cedad0673b306298bf6df92fe9226cb5da5eaaade4d1e0e6d3fed3f"
+    },
+    {
+      "id": "9fc7974fca1c",
+      "name": "直腿硬拉",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9fc7974fca1c-519379833855.jpg",
+      "bytes": 107944,
+      "sha256": "5193798338559a665c25c00628780781fd4f583f47d489e3136267e1f4dc93da"
+    },
+    {
+      "id": "9d78f9a6654d",
+      "name": "坐姿腿弯举",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9d78f9a6654d-edbc180ae420.jpg",
+      "bytes": 134918,
+      "sha256": "edbc180ae420c2a5efd871580d8249051d21096f6bba1b92493ae8a6fb25d6c0"
+    },
+    {
+      "id": "b21cb4882b92",
+      "name": "俯卧腿弯举",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b21cb4882b92-ba173d822244.jpg",
+      "bytes": 134451,
+      "sha256": "ba173d82224406f2b79eaf9f0ab00b1c561c41f2849f5f1e57bf7ae0eaa3d831"
+    },
+    {
+      "id": "0d459668bc94",
+      "name": "站姿腿弯举",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/0d459668bc94-7768e34743bd.jpg",
+      "bytes": 118888,
+      "sha256": "7768e34743bd576fc3e65ac5ca7039f4766c448c8c8f4d532ad04e70eb9be091"
+    },
+    {
+      "id": "6564b7fc092c",
+      "name": "单腿腿弯举",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6564b7fc092c-6942df182072.jpg",
+      "bytes": 130500,
+      "sha256": "6942df18207271aa3aa40cef944f743653066cf31188e62de4e6e4795fa1c6ae"
+    },
+    {
+      "id": "8bed9d7c598a",
+      "name": "北欧腿弯举",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8bed9d7c598a-b6d2ae9a6181.jpg",
+      "bytes": 107439,
+      "sha256": "b6d2ae9a6181da4677432d600bca08e661c884f33740ef3944d472b9ed657ba7"
+    },
+    {
+      "id": "1c1423d373ef",
+      "name": "健身球腿弯举",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1c1423d373ef-b2f1686b19a4.jpg",
+      "bytes": 100103,
+      "sha256": "b2f1686b19a480e3f2371fb40982e3d75e315c5f8f9833a91cd7af2a902ff6a4"
+    },
+    {
+      "id": "beeec29f1738",
+      "name": "滑盘腿弯举",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/beeec29f1738-ee83c48211fe.jpg",
+      "bytes": 101836,
+      "sha256": "ee83c48211fed1ff6e657a22fca92048d277e032940fccbbb45aa01e64543620"
+    },
+    {
+      "id": "a38520391fb3",
+      "name": "臀腿挺身",
+      "category": "腿部",
+      "subgroup": "腘绳肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a38520391fb3-e8979f5a7e7a.jpg",
+      "bytes": 98213,
+      "sha256": "e8979f5a7e7a0c002ea774328b6f2b3b775e1c1d5ee54706cb5e6c3cf5933969"
+    },
+    {
+      "id": "470d7d2147d5",
+      "name": "器械腿内收",
+      "category": "腿部",
+      "subgroup": "内收与外展",
+      "kind": "predefined",
+      "path": "docs/exercise-media/470d7d2147d5-801fe0489ade.jpg",
+      "bytes": 122232,
+      "sha256": "801fe0489ade98d35a651baf9117251d7dba262804289a9baccc18ab7e875dd1"
+    },
+    {
+      "id": "49aeee8b913e",
+      "name": "器械腿外展",
+      "category": "腿部",
+      "subgroup": "内收与外展",
+      "kind": "predefined",
+      "path": "docs/exercise-media/49aeee8b913e-de15dd0694c3.jpg",
+      "bytes": 143864,
+      "sha256": "de15dd0694c3a65fdbd83072f7fbb3c9634c28188cb9aa6e03931cb35a91f663"
+    },
+    {
+      "id": "2a1da1436ad7",
+      "name": "绳索腿内收",
+      "category": "腿部",
+      "subgroup": "内收与外展",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2a1da1436ad7-51a75bb041e2.jpg",
+      "bytes": 126363,
+      "sha256": "51a75bb041e239222af3405e1356922361539ec5ad0f24e3ca8f93c495d2d467"
+    },
+    {
+      "id": "464602ba7d67",
+      "name": "绳索腿外展",
+      "category": "腿部",
+      "subgroup": "内收与外展",
+      "kind": "predefined",
+      "path": "docs/exercise-media/464602ba7d67-f40a75873395.jpg",
+      "bytes": 131317,
+      "sha256": "f40a75873395fba60e7ca998a5a0b992364386a3238190d7bb96db42cce5bb04"
+    },
+    {
+      "id": "00cb7409a91f",
+      "name": "侧弓步",
+      "category": "腿部",
+      "subgroup": "内收与外展",
+      "kind": "predefined",
+      "path": "docs/exercise-media/00cb7409a91f-923db0cd9b40.jpg",
+      "bytes": 107720,
+      "sha256": "923db0cd9b4010495351453e96de04647c4be5879a5666121c8a4f52b44fcb2c"
+    },
+    {
+      "id": "c19a50840e08",
+      "name": "哥本哈根平板支撑",
+      "category": "腿部",
+      "subgroup": "内收与外展",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c19a50840e08-04039f0dbea4.jpg",
+      "bytes": 98550,
+      "sha256": "04039f0dbea4c5fbf9526740a4f809231e3262c1ea8e188f496115b4b57189d6"
+    },
+    {
+      "id": "60a6a1131aed",
+      "name": "侧卧腿内收",
+      "category": "腿部",
+      "subgroup": "内收与外展",
+      "kind": "predefined",
+      "path": "docs/exercise-media/60a6a1131aed-7b5b34eb62dc.jpg",
+      "bytes": 99394,
+      "sha256": "7b5b34eb62dcd4c9c735d6b890b61ec7e5ec1c7cf9b8d2f9210ea79e1be91fcf"
+    },
+    {
+      "id": "e23594cf302d",
+      "name": "站姿提踵",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e23594cf302d-d2d0335ee38e.jpg",
+      "bytes": 93106,
+      "sha256": "d2d0335ee38e922a2d3503b2529d7c1683ba3661b261412da4f78ebfbe6d646d"
+    },
+    {
+      "id": "8ef4fb412f18",
+      "name": "坐姿提踵",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8ef4fb412f18-3aad88dfaa9f.jpg",
+      "bytes": 112066,
+      "sha256": "3aad88dfaa9f51c9424cd6871a2e710a6354b3ac76bc964a525a683a87bf8740"
+    },
+    {
+      "id": "c81f9d30b174",
+      "name": "单腿提踵",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c81f9d30b174-84d80105a825.jpg",
+      "bytes": 92519,
+      "sha256": "84d80105a825a13115cd76592cf9993f4c75cb0bd3018054811e47633c7c1487"
+    },
+    {
+      "id": "abfae69f4efb",
+      "name": "史密斯提踵",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/abfae69f4efb-031d02b1721e.jpg",
+      "bytes": 119732,
+      "sha256": "031d02b1721e1a6bdb4d8f2185da0b3ad392f7469eaa540e142928ac56ec145d"
+    },
+    {
+      "id": "ff7bd8a2f047",
+      "name": "腿举机提踵",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ff7bd8a2f047-66f2b08752c2.jpg",
+      "bytes": 149940,
+      "sha256": "66f2b08752c29d9da09c31a6ac26b5b8b8e9ae0e02aac9b690ce52925320e42c"
+    },
+    {
+      "id": "275ba92c8a84",
+      "name": "驴式提踵",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/275ba92c8a84-fa37e412e367.jpg",
+      "bytes": 113483,
+      "sha256": "fa37e412e367016873f50592fb71d61f07edc535ac001cee06d9eef4cc4853ec"
+    },
+    {
+      "id": "4976057ed2de",
+      "name": "哑铃提踵",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/4976057ed2de-88a3ad764b5c.jpg",
+      "bytes": 91818,
+      "sha256": "88a3ad764b5c9cea9e677b29146296f6454683a789fbecc876e60135fbb5ac49"
+    },
+    {
+      "id": "4a6b896896be",
+      "name": "胫骨前肌抬脚",
+      "category": "腿部",
+      "subgroup": "小腿与胫骨",
+      "kind": "predefined",
+      "path": "docs/exercise-media/4a6b896896be-45e3e2e6d1ef.jpg",
+      "bytes": 140523,
+      "sha256": "45e3e2e6d1ef670f90b2b40302ba9a74a60f826135a075554552d40c5e2a3c30"
+    },
+    {
+      "id": "52b35c5d1d25",
+      "name": "杠铃臀推",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/52b35c5d1d25-f482ec87ea5a.jpg",
+      "bytes": 118858,
+      "sha256": "f482ec87ea5a95ee44a33c6e02d10678b3c51eb653b530133799ed4140bdf4b7"
+    },
+    {
+      "id": "725005b02f35",
+      "name": "哑铃臀推",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/725005b02f35-471123736175.jpg",
+      "bytes": 115797,
+      "sha256": "4711237361757b2817b267f0127bd48b7b115e152f36463dfca93a890b2312cd"
+    },
+    {
+      "id": "2eb74b55428d",
+      "name": "史密斯臀推",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2eb74b55428d-842044d75a66.jpg",
+      "bytes": 138344,
+      "sha256": "842044d75a664e605ef30303a93761dfeee2c6b7b254961174c719f7d58c935c"
+    },
+    {
+      "id": "8dfc35fb62d1",
+      "name": "器械臀推",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8dfc35fb62d1-c64cb267a976.jpg",
+      "bytes": 137380,
+      "sha256": "c64cb267a976bb94121885ee850e96896b949d2b89c850ece78290f3e772d484"
+    },
+    {
+      "id": "1255aa59a29a",
+      "name": "单腿臀推",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1255aa59a29a-c57dbe2e3046.jpg",
+      "bytes": 107950,
+      "sha256": "c57dbe2e3046152d15eabb8e63669262ef2021d07dae0911bffb6a3603074993"
+    },
+    {
+      "id": "b7e564c03cf7",
+      "name": "臀桥",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b7e564c03cf7-0511dd48c560.jpg",
+      "bytes": 89222,
+      "sha256": "0511dd48c560922d44d10acd43de27ca692b7fd830a154f22d12ce6e2299119a"
+    },
+    {
+      "id": "920d5aa7b38b",
+      "name": "杠铃臀桥",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/920d5aa7b38b-7c4bcd3b8520.jpg",
+      "bytes": 110986,
+      "sha256": "7c4bcd3b8520ec33689a5f24d0d48ba7a79ad9691090d6e4a861b0603352e3a3"
+    },
+    {
+      "id": "eecfd39bf74f",
+      "name": "单腿臀桥",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/eecfd39bf74f-c31007ab4a49.jpg",
+      "bytes": 91935,
+      "sha256": "c31007ab4a49cb0c6562bc489ade6126caef0b74bcc19cbe02e85ac71659a413"
+    },
+    {
+      "id": "974c6d2d77ee",
+      "name": "绳索后踢腿",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/974c6d2d77ee-65aea6c17809.jpg",
+      "bytes": 124193,
+      "sha256": "65aea6c1780911c96eb65c1cddae01a1edfec841489a8f13faa8f46acf472500"
+    },
+    {
+      "id": "1840a575f74e",
+      "name": "器械后踢腿",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1840a575f74e-5f34b565c7d4.jpg",
+      "bytes": 143970,
+      "sha256": "5f34b565c7d4f3f3cf8a85449791d6b2800a8926c65f71b211616b59ea68f088"
+    },
+    {
+      "id": "b9a6bff96e88",
+      "name": "四点跪姿后踢腿",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b9a6bff96e88-a6a0853e264f.jpg",
+      "bytes": 114482,
+      "sha256": "a6a0853e264feca6b9ae16ed8df1517d0c9068c15a234ef69a435a765ebe87d3"
+    },
+    {
+      "id": "3c1778b2a45f",
+      "name": "蛙式臀桥",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3c1778b2a45f-75720a8226d7.jpg",
+      "bytes": 104409,
+      "sha256": "75720a8226d727ce547854afc1f931c75583c939a338b3730e731139c5885d88"
+    },
+    {
+      "id": "f494f2061090",
+      "name": "壶铃摆动",
+      "category": "臀部",
+      "subgroup": "臀大肌",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f494f2061090-169448cfb78b.jpg",
+      "bytes": 88795,
+      "sha256": "169448cfb78bf58287a51cbe7d2eb8b875c1aeafa9331efd6dc199b0a3d5dda1"
+    },
+    {
+      "id": "c6bc52148d05",
+      "name": "侧卧抬腿",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c6bc52148d05-daaec2749f67.jpg",
+      "bytes": 101902,
+      "sha256": "daaec2749f67a70783b97af4cb74398450f7f0d0058fe6151f8cf0f2e838abb9"
+    },
+    {
+      "id": "9cabe785ef59",
+      "name": "蚌式开合",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9cabe785ef59-df68b7636a65.jpg",
+      "bytes": 102106,
+      "sha256": "df68b7636a655933b76d1516f814cfc34ef8c882d1a567a88ccf135ba2fe63f7"
+    },
+    {
+      "id": "34d3fbbeae34",
+      "name": "弹力带侧向走",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/34d3fbbeae34-8d6a171488fb.jpg",
+      "bytes": 99379,
+      "sha256": "8d6a171488fba71cd384a6ed23ffcb1c03fa7f3131aa0b9bac7923577ef7cd63"
+    },
+    {
+      "id": "d1cf67e7eceb",
+      "name": "怪兽行走",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/d1cf67e7eceb-548597b2680b.jpg",
+      "bytes": 100570,
+      "sha256": "548597b2680b2e0a47fbbaa6c618d30c883c2783fad9ad08c00bc0106054c5f8"
+    },
+    {
+      "id": "56338b963b3d",
+      "name": "站姿弹力带髋外展",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/56338b963b3d-8c279c666c91.jpg",
+      "bytes": 96002,
+      "sha256": "8c279c666c91e02de6bba60934d69d1508d94f87031ca4c0498d81d5cfc2365e"
+    },
+    {
+      "id": "3cc465b67daf",
+      "name": "四点跪姿消防栓",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3cc465b67daf-0ebfa3ba91e1.jpg",
+      "bytes": 112659,
+      "sha256": "0ebfa3ba91e155e17bdff3bdb82ee58ff99a918c3f2f26bdf2b9df2739933a2e"
+    },
+    {
+      "id": "947a5af6a37d",
+      "name": "绳索髋外展",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/947a5af6a37d-ecb80c1991c0.jpg",
+      "bytes": 122146,
+      "sha256": "ecb80c1991c0c6e2e1b360658fc2ad4905b2cc3782231397a3e4bef19db0be04"
+    },
+    {
+      "id": "324b3a4d94c2",
+      "name": "单腿髋提拉",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/324b3a4d94c2-77181c987606.jpg",
+      "bytes": 93485,
+      "sha256": "77181c9876062218fcc218f0c6fe423929884ae08ca535716f09c59bdbce1449"
+    },
+    {
+      "id": "b646b20c41f9",
+      "name": "侧向登阶",
+      "category": "臀部",
+      "subgroup": "臀中肌与稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b646b20c41f9-8519e6e999a2.jpg",
+      "bytes": 96191,
+      "sha256": "8519e6e999a22ad1aff64389fd92c4607a0b173512bd7fc4680dfce07d9b6f5b"
+    },
+    {
+      "id": "14208ee07837",
+      "name": "卷腹",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/14208ee07837-3ccd08d16745.jpg",
+      "bytes": 121298,
+      "sha256": "3ccd08d1674553cd3d220ea88bdcb226a9edb22af0b3cc263d6b625f77fbe612"
+    },
+    {
+      "id": "2d63b0a70059",
+      "name": "绳索卷腹",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2d63b0a70059-63882f71f8b0.jpg",
+      "bytes": 118826,
+      "sha256": "63882f71f8b0a1b9db2faa6b450f0f61d5abb4e6282d6d33e5f139fea89cedcb"
+    },
+    {
+      "id": "1fe5fa7957dc",
+      "name": "健身球卷腹",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1fe5fa7957dc-677b8a85d79d.jpg",
+      "bytes": 114217,
+      "sha256": "677b8a85d79d62c2a5e46d11c9cdeb7cbdb9b253685de68c6b90eaaf8d58bf77"
+    },
+    {
+      "id": "0bd2901b2cf2",
+      "name": "负重卷腹",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/0bd2901b2cf2-8dc8967e872e.jpg",
+      "bytes": 104854,
+      "sha256": "8dc8967e872e92a2874be79a64b612f4a14f7b6f43c261b1eace7c47b85b6fac"
+    },
+    {
+      "id": "b980480fc0ce",
+      "name": "上斜卷腹",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b980480fc0ce-fc38d97804ba.jpg",
+      "bytes": 114835,
+      "sha256": "fc38d97804bac9d13212b86efd77321b812884209f0a7fc72fb8696f489eb430"
+    },
+    {
+      "id": "e1d911b28aa7",
+      "name": "触脚卷腹",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e1d911b28aa7-3a7305b958ca.jpg",
+      "bytes": 106758,
+      "sha256": "3a7305b958ca50aee672421f05f32c844922b9d2ea819ab21be164ceaeee454c"
+    },
+    {
+      "id": "eb7f98cd02a1",
+      "name": "仰卧起坐",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/eb7f98cd02a1-2ba931f6c580.jpg",
+      "bytes": 95447,
+      "sha256": "2ba931f6c5809a4e63a6cdd4f5daf09a9dd220c1ef68ba2f83bfbb92ecf6b224"
+    },
+    {
+      "id": "656807565524",
+      "name": "负重仰卧起坐",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/656807565524-34861c56d045.jpg",
+      "bytes": 115477,
+      "sha256": "34861c56d0455759a381fd4fc1aba36c88387a171a96fe0b698ab6e8fd10db22"
+    },
+    {
+      "id": "17efa3b7da19",
+      "name": "V 字两头起",
+      "category": "腹部与核心",
+      "subgroup": "卷腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/17efa3b7da19-f45ab1549df6.jpg",
+      "bytes": 105115,
+      "sha256": "f45ab1549df6e5751da1d7bf0ad2789cade18fab74eb280150c4074ed0eb253b"
+    },
+    {
+      "id": "5a736181dbf4",
+      "name": "悬垂提膝",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/5a736181dbf4-c18181e7e7f8.jpg",
+      "bytes": 113160,
+      "sha256": "c18181e7e7f82fd928bca4b8e68b111bfc334f1482a82e3dc27a9ebb30d0291e"
+    },
+    {
+      "id": "34d2ddd45495",
+      "name": "双杠举腿",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/34d2ddd45495-a3497531f3f7.jpg",
+      "bytes": 103446,
+      "sha256": "a3497531f3f71a2b10916930d9637558ad3616452035679ff528c3cba7321e3b"
+    },
+    {
+      "id": "3f7cd0ec2c8c",
+      "name": "仰卧举腿",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3f7cd0ec2c8c-30975ce77b1f.jpg",
+      "bytes": 99807,
+      "sha256": "30975ce77b1f2b451c6371ba8f375ce8c84393628909f41946c212bee8e445d5"
+    },
+    {
+      "id": "a4c4ead7f2f4",
+      "name": "反向卷腹",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a4c4ead7f2f4-60f8005628a3.jpg",
+      "bytes": 102630,
+      "sha256": "60f8005628a353b493b92ca13af94a7497b4b51edd8f7a99f11f944592ca41f8"
+    },
+    {
+      "id": "e1898cd6adf3",
+      "name": "船式收腹",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e1898cd6adf3-ae61abab04b0.jpg",
+      "bytes": 99752,
+      "sha256": "ae61abab04b0741f03589e207ca2c2f6098bdbbecd86f4d1d57065563c4ffd02"
+    },
+    {
+      "id": "4064ec429fd5",
+      "name": "剪刀腿",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/4064ec429fd5-1f6228b489ac.jpg",
+      "bytes": 102857,
+      "sha256": "1f6228b489acb9b9a968b4a050eefa518345b2cbd915e22dee3527e48a415444"
+    },
+    {
+      "id": "3b52099a2901",
+      "name": "屈膝收腹",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3b52099a2901-cf7a15449ec6.jpg",
+      "bytes": 106138,
+      "sha256": "cf7a15449ec633aa2cc0d14d616729a995312d383b3cb591144f255cd8824271"
+    },
+    {
+      "id": "7264d819a599",
+      "name": "仰卧交替抬腿",
+      "category": "腹部与核心",
+      "subgroup": "抬腿与下腹",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7264d819a599-eee716ecae9d.jpg",
+      "bytes": 98215,
+      "sha256": "eee716ecae9dd48894b3a69dfaae38fa0cbb561b37b6cfc23ab8ca1b6100b1e7"
+    },
+    {
+      "id": "7ca7f62fe602",
+      "name": "俄罗斯转体",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7ca7f62fe602-b4a0f1ec4b62.jpg",
+      "bytes": 108315,
+      "sha256": "b4a0f1ec4b624a7ce2ad11b0411d15e92bab99e8b4a9a6713a7ae3718dd9004c"
+    },
+    {
+      "id": "46936bab5496",
+      "name": "负重俄罗斯转体",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/46936bab5496-9c44290e6a83.jpg",
+      "bytes": 112086,
+      "sha256": "9c44290e6a833f1e9b8d664cecd5f4781ec656ee8468a6ad2118cb001190057a"
+    },
+    {
+      "id": "15a4d4457042",
+      "name": "自行车卷腹",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/15a4d4457042-c801fb3e2213.jpg",
+      "bytes": 95233,
+      "sha256": "c801fb3e221391ff780c64251915a0dd8853b1012ecdf243a4d53b80e3f7f0ae"
+    },
+    {
+      "id": "e25622ac51a2",
+      "name": "侧卷腹",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e25622ac51a2-750ec86be598.jpg",
+      "bytes": 96460,
+      "sha256": "750ec86be5986b4e0c4afeb83838f8b2aa0b22d6739207309fafab08e7952ddc"
+    },
+    {
+      "id": "7c847571a1e1",
+      "name": "绳索伐木",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7c847571a1e1-1a1e2e0a24d8.jpg",
+      "bytes": 118671,
+      "sha256": "1a1e2e0a24d8690d8301dee616b5ea13125481ba54a52f0f3ee662f6d4b09e67"
+    },
+    {
+      "id": "314cc4924291",
+      "name": "绳索低位伐木",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/314cc4924291-b3cd80ee8589.jpg",
+      "bytes": 123981,
+      "sha256": "b3cd80ee8589169602c7d4b8ebe503f2af5f76abbf069727a4bddb4c1a6d3c50"
+    },
+    {
+      "id": "a82652b0409f",
+      "name": "陆地雷转体",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a82652b0409f-9a2e81576199.jpg",
+      "bytes": 105684,
+      "sha256": "9a2e815761993d4a9f6d6f254a034d5d7af6d2f658f7cf02d90de743ef225316"
+    },
+    {
+      "id": "3b2479ff1bca",
+      "name": "雨刷式举腿",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3b2479ff1bca-354537387398.jpg",
+      "bytes": 114597,
+      "sha256": "354537387398411895612525d6132bedf26c54155de486bc655148a263896dc7"
+    },
+    {
+      "id": "a0222fa50418",
+      "name": "侧卧提髋",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a0222fa50418-8203e4a3a5e7.jpg",
+      "bytes": 110374,
+      "sha256": "8203e4a3a5e74043ee81218443f7407593a2d36c028db5e27ffe4859da7c96c3"
+    },
+    {
+      "id": "642a44087ea9",
+      "name": "哑铃侧屈",
+      "category": "腹部与核心",
+      "subgroup": "腹斜肌与旋转",
+      "kind": "predefined",
+      "path": "docs/exercise-media/642a44087ea9-c9769492cfa4.jpg",
+      "bytes": 94933,
+      "sha256": "c9769492cfa4f6848e2d46a34961362b51997227a65b03fb08e1cb7e63d1fba7"
+    },
+    {
+      "id": "17f856755af7",
+      "name": "平板支撑",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/17f856755af7-f918213de717.jpg",
+      "bytes": 90750,
+      "sha256": "f918213de717d213f95a6ea737235b7610dcc7e1cb7f26510915a35beadf1def"
+    },
+    {
+      "id": "64fc5d48df85",
+      "name": "侧平板支撑",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/64fc5d48df85-dbcf700511fd.jpg",
+      "bytes": 106593,
+      "sha256": "dbcf700511fdb82d90c7d3fa7d5e452733762d955469995c2efcde26b75fea71"
+    },
+    {
+      "id": "3c0b6508a61d",
+      "name": "负重平板支撑",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3c0b6508a61d-ff81a5578035.jpg",
+      "bytes": 91081,
+      "sha256": "ff81a55780357e821c02ff548526f24a46a33e348584213fd2da052ac2132a26"
+    },
+    {
+      "id": "47abf5a20db1",
+      "name": "健腹轮",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/47abf5a20db1-efd50668b17e.jpg",
+      "bytes": 94369,
+      "sha256": "efd50668b17e5c0a40c730dc4430c92bd9c5ea83bbfe7440f6fb17670895dd62"
+    },
+    {
+      "id": "dc5434fc6a6c",
+      "name": "跪姿健腹轮",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/dc5434fc6a6c-bc100b176054.jpg",
+      "bytes": 97621,
+      "sha256": "bc100b1760545f6c4033e6225cd0a3ad19e5a186384b5e255ff296d7045df1a1"
+    },
+    {
+      "id": "240cfc79cb75",
+      "name": "站姿健腹轮",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/240cfc79cb75-1a755886c434.jpg",
+      "bytes": 110195,
+      "sha256": "1a755886c434af9f6cc2daac098cc863c8078ee3d59baeab80a4a78e9a388872"
+    },
+    {
+      "id": "ce0d6a78c762",
+      "name": "死虫式",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ce0d6a78c762-28e270c61e74.jpg",
+      "bytes": 101639,
+      "sha256": "28e270c61e7441e3a2d2f921375c65afaabd250ae242fc5bde73c1f66c1c0389"
+    },
+    {
+      "id": "786f7a017938",
+      "name": "鸟狗式",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/786f7a017938-261360d65eee.jpg",
+      "bytes": 97499,
+      "sha256": "261360d65eee4547579232f6e5f0b1c106c9d8ba5addd494be1731a48ef1672b"
+    },
+    {
+      "id": "c6ca2ce34767",
+      "name": "帕洛夫推",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c6ca2ce34767-17fecdd77842.jpg",
+      "bytes": 118041,
+      "sha256": "17fecdd77842bd26244ab78795520b51b0a7a4361b76d4630e1d241e84951fad"
+    },
+    {
+      "id": "bee02fa54b56",
+      "name": "绳索抗旋转",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/bee02fa54b56-40cd566322bf.jpg",
+      "bytes": 115522,
+      "sha256": "40cd566322bf303c2bec4caba2020531295e372be085ace1fffce9e746b01e94"
+    },
+    {
+      "id": "c2b00326adbd",
+      "name": "熊爬",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c2b00326adbd-d63e47648054.jpg",
+      "bytes": 101925,
+      "sha256": "d63e47648054fa8ad966284e301fe342722acaabc0ec4434ccc71318a973afc4"
+    },
+    {
+      "id": "691bffa8753e",
+      "name": "熊式支撑",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/691bffa8753e-6c6113a4220f.jpg",
+      "bytes": 119436,
+      "sha256": "6c6113a4220f2229c58c361fa8e1f4a5c0bb6ec593a86956b3b2258cf269d80f"
+    },
+    {
+      "id": "98f1fb8de282",
+      "name": "登山跑",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/98f1fb8de282-5439f50cf23b.jpg",
+      "bytes": 97920,
+      "sha256": "5439f50cf23b590d84dcfde5f90783e14d6e67806a8b7d9a8a65a409aa2a22b5"
+    },
+    {
+      "id": "f857118376e2",
+      "name": "中空支撑",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f857118376e2-9621bf097916.jpg",
+      "bytes": 95829,
+      "sha256": "9621bf097916fd4d8521275368924429fa51f280cfaddc4d25756c2f2165cedf"
+    },
+    {
+      "id": "11a20009d199",
+      "name": "超人式",
+      "category": "腹部与核心",
+      "subgroup": "核心稳定",
+      "kind": "predefined",
+      "path": "docs/exercise-media/11a20009d199-218e44d48fa1.jpg",
+      "bytes": 91227,
+      "sha256": "218e44d48fa146f6c833d85a070e888d1eb0a9c6445fce64d585062f408decb2"
+    },
+    {
+      "id": "029ba6316b5e",
+      "name": "杠铃抓举",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/029ba6316b5e-efce59417b87.jpg",
+      "bytes": 94334,
+      "sha256": "efce59417b871203e81e140834f77b9d6950d1b2f2ab150836121552f8dbcad6"
+    },
+    {
+      "id": "a667307ce589",
+      "name": "杠铃高翻",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a667307ce589-3da40e228278.jpg",
+      "bytes": 119555,
+      "sha256": "3da40e228278bdfda168641a1d9c0a04730dd2d7f18aff352a63992d61354b41"
+    },
+    {
+      "id": "7811567f91a0",
+      "name": "杠铃挺举",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7811567f91a0-a4c726c2b2c7.jpg",
+      "bytes": 93268,
+      "sha256": "a4c726c2b2c7764b9218108df06d363bb0908ba2048a1001383443f6935d2d14"
+    },
+    {
+      "id": "ddb121e50a0b",
+      "name": "哑铃抓举",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ddb121e50a0b-bbf37a0dda52.jpg",
+      "bytes": 90357,
+      "sha256": "bbf37a0dda52b8ab9269e1687c8054a38bd5bdb78d1b8878c2de4ede3a315c78"
+    },
+    {
+      "id": "9d9d148e3701",
+      "name": "壶铃抓举",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/9d9d148e3701-5342f348ccdc.jpg",
+      "bytes": 87663,
+      "sha256": "5342f348ccdc086b52f863cd4cccdfeda4fbaf95bcbdb9edb01f6ce0afdb2571"
+    },
+    {
+      "id": "7fdcc99e27c1",
+      "name": "壶铃高翻",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7fdcc99e27c1-083baa621423.jpg",
+      "bytes": 93170,
+      "sha256": "083baa6214233023c9cfe2d2a4fcef2b2dcafc4b41febea8bec6f4d682232b90"
+    },
+    {
+      "id": "e46688d4b246",
+      "name": "壶铃高翻推举",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e46688d4b246-2aba3ff4cb5a.jpg",
+      "bytes": 90953,
+      "sha256": "2aba3ff4cb5a502f0888ee6d45340165bc20517ee08fba53793f43af0634b497"
+    },
+    {
+      "id": "7e077d3cce54",
+      "name": "哑铃推蹲",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7e077d3cce54-74e459152339.jpg",
+      "bytes": 94233,
+      "sha256": "74e4591523391886f04289c018608d36053b4a8963d193e22b43cd2c1b2b1f28"
+    },
+    {
+      "id": "d5bd69f8d71b",
+      "name": "杠铃推蹲",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/d5bd69f8d71b-278234dafbbb.jpg",
+      "bytes": 95914,
+      "sha256": "278234dafbbbf48a7019dffe7be0bc7acc90d84c6ecbdc9d01caa4b541612fc3"
+    },
+    {
+      "id": "69682147b480",
+      "name": "药球砸地",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/69682147b480-d19a022b84ac.jpg",
+      "bytes": 86345,
+      "sha256": "d19a022b84ac1bf0bb5c3b2c0464bb355557db288dfdeaf1147fc4d665c44b76"
+    },
+    {
+      "id": "57641097d3ac",
+      "name": "药球侧向投掷",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/57641097d3ac-cf2261fdc328.jpg",
+      "bytes": 101046,
+      "sha256": "cf2261fdc3286717adf092b4fa0c13269f62cd33ad3876f5f3c28f7ce79498dc"
+    },
+    {
+      "id": "5012f46c4684",
+      "name": "战绳",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/5012f46c4684-ae4e8ed661bc.jpg",
+      "bytes": 115860,
+      "sha256": "ae4e8ed661bc52fae4f08d2084e1cead87e5404b1e27d16e0e4cc99421cfef24"
+    },
+    {
+      "id": "b93548678bbf",
+      "name": "雪橇推",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b93548678bbf-7ee929b949a1.jpg",
+      "bytes": 128523,
+      "sha256": "7ee929b949a1e502ae4e9421e2513fa3eb548a980125da69954977049a2c8868"
+    },
+    {
+      "id": "7190fc1b44ea",
+      "name": "雪橇拉",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7190fc1b44ea-6eaa809c2e8c.jpg",
+      "bytes": 117681,
+      "sha256": "6eaa809c2e8c76612397132236d65aa447b112ebb0333fbd009ddcfb1a1162b5"
+    },
+    {
+      "id": "ec78bf0d3e34",
+      "name": "轮胎翻滚",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/ec78bf0d3e34-15468086d02d.jpg",
+      "bytes": 123562,
+      "sha256": "15468086d02d9456e30ddee63a55d8f3de512b7db7efa8105ce5eb34d791aa0a"
+    },
+    {
+      "id": "3ebab1620fa9",
+      "name": "土耳其起立",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3ebab1620fa9-ef8d00b55258.jpg",
+      "bytes": 108144,
+      "sha256": "ef8d00b55258beedea8e6736489b008b10d49d648df221a7b88fea604e74838f"
+    },
+    {
+      "id": "dedf81c10164",
+      "name": "沙袋扛举",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/dedf81c10164-55cfb6705beb.jpg",
+      "bytes": 94979,
+      "sha256": "55cfb6705bebb5cdd9f8d16807dae6536a005441c1ab9589a1d9636c99752817"
+    },
+    {
+      "id": "aee37815566b",
+      "name": "单臂壶铃摆动",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/aee37815566b-0f2da346c78c.jpg",
+      "bytes": 94415,
+      "sha256": "0f2da346c78c642c152060f78d6c6f239ae5126fbc04d15de3e70117a4d99946"
+    },
+    {
+      "id": "1de57daf9c9e",
+      "name": "双壶铃前蹲",
+      "category": "全身与功能性",
+      "subgroup": "复合与功能性",
+      "kind": "predefined",
+      "path": "docs/exercise-media/1de57daf9c9e-477b6066d4b6.jpg",
+      "bytes": 108262,
+      "sha256": "477b6066d4b6ceaa03b09680e7d96b3a292398aff4aa772d2ba4b0183761fec9"
+    },
+    {
+      "id": "591052c73349",
+      "name": "跑步",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/591052c73349-338e40e68d66.jpg",
+      "bytes": 120326,
+      "sha256": "338e40e68d66378d9d25fcc0541c8bd810bd2c3085ba568e776db12409f81b29"
+    },
+    {
+      "id": "80b85edd32e5",
+      "name": "跑步机跑步",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/80b85edd32e5-85216f102835.jpg",
+      "bytes": 119519,
+      "sha256": "85216f102835ec4b72de9c8466d09d05039d1449d1d255fd3190549871537c69"
+    },
+    {
+      "id": "c8fd2240115f",
+      "name": "间歇跑",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c8fd2240115f-9a4f796268d8.jpg",
+      "bytes": 125528,
+      "sha256": "9a4f796268d812d80393f9c6eae2cf15979c7cd6831bd02cdfddcfa168b59bd3"
+    },
+    {
+      "id": "b0bdc577fd85",
+      "name": "越野跑",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b0bdc577fd85-f9e9cc159a90.jpg",
+      "bytes": 104745,
+      "sha256": "f9e9cc159a908a57c8aa75ed0aa2f0d996bcb10785261a067c0d803470e0982b"
+    },
+    {
+      "id": "e13325535631",
+      "name": "快走",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e13325535631-66546a8b3096.jpg",
+      "bytes": 99194,
+      "sha256": "66546a8b3096a3aad388765f255e813019b2faa5b8e11bc86e852d2e688fb819"
+    },
+    {
+      "id": "8eff63d6775f",
+      "name": "户外步行",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8eff63d6775f-f4459a562bff.jpg",
+      "bytes": 98882,
+      "sha256": "f4459a562bff93780cfed141ce418d8893b38782c919eac08162c61f08c33817"
+    },
+    {
+      "id": "51f15b0b6527",
+      "name": "跑步机步行",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/51f15b0b6527-8520b0e14ae9.jpg",
+      "bytes": 124055,
+      "sha256": "8520b0e14ae92fce092c6be25b4e163e72a59dd5a076ac0581d9a84e38e9d3b8"
+    },
+    {
+      "id": "c8e3b04b84a6",
+      "name": "跑步机爬坡",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c8e3b04b84a6-fa4bb15ea4ef.jpg",
+      "bytes": 139819,
+      "sha256": "fa4bb15ea4ef707dfcdd02355fd40e6f2a79b0bf7b41d37a96e9483bd3397c58"
+    },
+    {
+      "id": "a0d4309fe260",
+      "name": "徒步",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a0d4309fe260-a7ae735faf6c.jpg",
+      "bytes": 136120,
+      "sha256": "a7ae735faf6cbeb48fcf046bbeea60a48e2661cd102189b9b551345a8b882616"
+    },
+    {
+      "id": "6af0ddf8b2f5",
+      "name": "登山",
+      "category": "有氧",
+      "subgroup": "跑步与步行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6af0ddf8b2f5-02049c3de6f2.jpg",
+      "bytes": 160519,
+      "sha256": "02049c3de6f2b0794babfee4dece500eb5f7de673c91a12a9e66fda53d0d1090"
+    },
+    {
+      "id": "e81f910c0f2b",
+      "name": "骑行",
+      "category": "有氧",
+      "subgroup": "骑行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e81f910c0f2b-80c2569c580f.jpg",
+      "bytes": 195582,
+      "sha256": "80c2569c580fb14b9c1aa18a524643a2435e7f0c3d1038ec82afeca6aa3771af"
+    },
+    {
+      "id": "6b636d15f522",
+      "name": "公路骑行",
+      "category": "有氧",
+      "subgroup": "骑行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6b636d15f522-960f39baa602.jpg",
+      "bytes": 189056,
+      "sha256": "960f39baa60262725bae9e336752ace9917ebf84884da11e0789c8f2b79494d1"
+    },
+    {
+      "id": "17c89b04e5c9",
+      "name": "山地骑行",
+      "category": "有氧",
+      "subgroup": "骑行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/17c89b04e5c9-9f30788e66dd.jpg",
+      "bytes": 197022,
+      "sha256": "9f30788e66dd3129345193aa85e50f8b293c1fe7d174e90e32b02f8edc016c40"
+    },
+    {
+      "id": "97740bc9bcf6",
+      "name": "室内单车",
+      "category": "有氧",
+      "subgroup": "骑行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/97740bc9bcf6-a64fab0222bc.jpg",
+      "bytes": 131451,
+      "sha256": "a64fab0222bcb8f192076397c8b4bca275f011c97def12fc11c3732bf9c04384"
+    },
+    {
+      "id": "c96f3a5d5a5d",
+      "name": "动感单车",
+      "category": "有氧",
+      "subgroup": "骑行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c96f3a5d5a5d-42325bc0e830.jpg",
+      "bytes": 132960,
+      "sha256": "42325bc0e830654ef053a5b0137aa2ca180eb5026f63e9216834634d9b25791e"
+    },
+    {
+      "id": "2706fefbd10b",
+      "name": "卧式单车",
+      "category": "有氧",
+      "subgroup": "骑行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/2706fefbd10b-8d8809b80665.jpg",
+      "bytes": 135998,
+      "sha256": "8d8809b806658988767c6156b2caeddec7f9b70f885d1e07e2d1a9a399ef3d5f"
+    },
+    {
+      "id": "4a2dba19269e",
+      "name": "风阻单车",
+      "category": "有氧",
+      "subgroup": "骑行",
+      "kind": "predefined",
+      "path": "docs/exercise-media/4a2dba19269e-564f84bbaef0.jpg",
+      "bytes": 170287,
+      "sha256": "564f84bbaef084fe94d43a939baed0e04ff33b53c891c48d6f8e46094f911524"
+    },
+    {
+      "id": "3ed6d5d86af8",
+      "name": "椭圆机",
+      "category": "有氧",
+      "subgroup": "器械有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/3ed6d5d86af8-9fa0e6c67498.jpg",
+      "bytes": 128426,
+      "sha256": "9fa0e6c67498dc1e3f3e3fac7edc48528d0f962f6ddcdbe99527d441034702cf"
+    },
+    {
+      "id": "a21f75cfc130",
+      "name": "划船机",
+      "category": "有氧",
+      "subgroup": "器械有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a21f75cfc130-64bfd8c19360.jpg",
+      "bytes": 129947,
+      "sha256": "64bfd8c193604265c19c7608136a2f3e8a974d7dd4b3b203ca68397deb4c3ba7"
+    },
+    {
+      "id": "e4a110474bce",
+      "name": "楼梯机",
+      "category": "有氧",
+      "subgroup": "器械有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e4a110474bce-efe5977f126e.jpg",
+      "bytes": 120741,
+      "sha256": "efe5977f126eb517d004719149b32dfa5d87794f067ac05c0829d1598c46c257"
+    },
+    {
+      "id": "a626a10ef4da",
+      "name": "滑雪机",
+      "category": "有氧",
+      "subgroup": "器械有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/a626a10ef4da-f921c651ae7c.jpg",
+      "bytes": 126153,
+      "sha256": "f921c651ae7c9b7b84df646841ccdce7147e362b89598d9347fd87f5fc066258"
+    },
+    {
+      "id": "8f91526be68b",
+      "name": "弧步机",
+      "category": "有氧",
+      "subgroup": "器械有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/8f91526be68b-16dc88c36673.jpg",
+      "bytes": 142115,
+      "sha256": "16dc88c36673189cea965cff2db088c5239b794d9e4fca9f6262ce81c390aab9"
+    },
+    {
+      "id": "f864303afb4e",
+      "name": "游泳",
+      "category": "有氧",
+      "subgroup": "游泳",
+      "kind": "predefined",
+      "path": "docs/exercise-media/f864303afb4e-34fc2d2bc079.jpg",
+      "bytes": 104255,
+      "sha256": "34fc2d2bc079e21f74fb7b8e41083c5262d77163a03289ae3bb2b25f9fd6915b"
+    },
+    {
+      "id": "fde197b2c6fc",
+      "name": "自由泳",
+      "category": "有氧",
+      "subgroup": "游泳",
+      "kind": "predefined",
+      "path": "docs/exercise-media/fde197b2c6fc-3c0010197251.jpg",
+      "bytes": 105578,
+      "sha256": "3c0010197251e55490cf08e176b1b0c5d31e877538428e43225fa07cf741360d"
+    },
+    {
+      "id": "c8641c3a1031",
+      "name": "蛙泳",
+      "category": "有氧",
+      "subgroup": "游泳",
+      "kind": "predefined",
+      "path": "docs/exercise-media/c8641c3a1031-161c11644aed.jpg",
+      "bytes": 108135,
+      "sha256": "161c11644aeddd8e248a813b0ccfe3acf49bd4c9e7b836ed53a64c577ae968f0"
+    },
+    {
+      "id": "b1e77c55e70f",
+      "name": "仰泳",
+      "category": "有氧",
+      "subgroup": "游泳",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b1e77c55e70f-536a11343160.jpg",
+      "bytes": 108189,
+      "sha256": "536a11343160361ebbf5899a760c37e7a6a329314e3b5a1c297ca091a845b349"
+    },
+    {
+      "id": "906dbf40affc",
+      "name": "蝶泳",
+      "category": "有氧",
+      "subgroup": "游泳",
+      "kind": "predefined",
+      "path": "docs/exercise-media/906dbf40affc-1de415c2dbd0.jpg",
+      "bytes": 106964,
+      "sha256": "1de415c2dbd0b520e77f49c2b52648da2eae66bcfae56d57647c8aa569cb7944"
+    },
+    {
+      "id": "203cc8f947e2",
+      "name": "跳绳",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/203cc8f947e2-b77b311bf8b7.jpg",
+      "bytes": 87275,
+      "sha256": "b77b311bf8b7f8582a30887e107c918ec524e6a9c70ff1cd14bc74a2c55145c1"
+    },
+    {
+      "id": "e254b61e4129",
+      "name": "拳击有氧",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e254b61e4129-43990c6b5f1b.jpg",
+      "bytes": 116354,
+      "sha256": "43990c6b5f1ba7e9ff08dce1267db66d166da24a937ec31f75949755c1d8451c"
+    },
+    {
+      "id": "55aad0da1d1e",
+      "name": "有氧操",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/55aad0da1d1e-09562ab8afc4.jpg",
+      "bytes": 93217,
+      "sha256": "09562ab8afc46c7b79b8d766a41d60760f57d76cbf3d519f4d95edef9d01c1ab"
+    },
+    {
+      "id": "b3aab3df867a",
+      "name": "HIIT",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/b3aab3df867a-9fbf3dbf4143.jpg",
+      "bytes": 85375,
+      "sha256": "9fbf3dbf4143a02a692a0aab8a42d5e4a8b677f28711a329cc921ad4888e6ee3"
+    },
+    {
+      "id": "e794fe242da5",
+      "name": "波比跳",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e794fe242da5-c05074e13dd6.jpg",
+      "bytes": 93292,
+      "sha256": "c05074e13dd636fededa689083c30de1ac6a0d8e7aa29becfb98a1203d1ee692"
+    },
+    {
+      "id": "e6275b4b4d81",
+      "name": "开合跳",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/e6275b4b4d81-89a719d487fd.jpg",
+      "bytes": 94615,
+      "sha256": "89a719d487fdf59bcc70c211d3e9696913fdc81200307458ed1c103137aac0d0"
+    },
+    {
+      "id": "199c7d757b12",
+      "name": "舞蹈有氧",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/199c7d757b12-4c3840ca379d.jpg",
+      "bytes": 95136,
+      "sha256": "4c3840ca379d40ef587a4964d39a754e342f50e8f36f3b35fd02756421a1adea"
+    },
+    {
+      "id": "7ad4173830a9",
+      "name": "球类运动",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/7ad4173830a9-ef5e3545b396.jpg",
+      "bytes": 91400,
+      "sha256": "ef5e3545b39673daadd4eb86125f64c60369c93e4f229fb123d7ce9c358f7884"
+    },
+    {
+      "id": "6ae9b614455e",
+      "name": "滑冰",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/6ae9b614455e-0fee7a927eec.jpg",
+      "bytes": 116777,
+      "sha256": "0fee7a927eec911c16132038342f75356e6549f3aa630ad6bd9e3f9d43ec6f01"
+    },
+    {
+      "id": "5e6dbb1fcc4e",
+      "name": "滑雪",
+      "category": "有氧",
+      "subgroup": "其他有氧",
+      "kind": "predefined",
+      "path": "docs/exercise-media/5e6dbb1fcc4e-1a793e1dfde6.jpg",
+      "bytes": 138130,
+      "sha256": "1a793e1dfde648466a0a0665a241d10cc04c70e46708cdaf4e6d2d5f3e1104fa"
+    }
+  ]
+}
